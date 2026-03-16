@@ -5,49 +5,50 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 ## Progress
 
 ### Warmup
-| # | Topic | Status |
-|---|-------|--------|
-| 0.1.0 | Test contest | ⬜ |
+
+| Status | # | Topic | Task 1 | Task 2 |
+|--------|---|-------|--------|--------|
+| ✅ | 0.1.0 | [Test contest](https://new.contest.yandex.ru/contests/89606) | [Decode the string](https://new.contest.yandex.ru/contests/89606/problems?id=30404%2F2023_02_12%2FLiYbwI4iG4)<br>[contest](src/warmup/task1/Main.java) \| [refined](src/warmup/task1/MainRefined.java) | [Oligopoly](https://new.contest.yandex.ru/contests/89606/problems?id=30404%2F2026_02_06%2F1U5A7PMMJk)<br>[contest](src/warmup/task2/Main.java) \| [refined](src/warmup/task2/MainRefined.java) |
 
 ### Block 1: Complexity, testing, edge cases
-| # | Topic | Status |
-|---|-------|--------|
-| 0.1.1 | 1.1 Algorithm complexity | ⬜ |
-| 0.1.2 | 1.2 Testing your own program | ⬜ |
-| 0.1.3 | 1.3 Test automation | ⬜ |
-| 0.1.4 | Contest 1 | ⬜ |
-| 0.1.5 | Contest 2 | ⬜ |
-| 0.2.0 | Contest 3 | ⬜ |
+| Status | # | Topic |
+|--------|---|-------|
+| ⬜ | 0.1.1 | 1.1 Algorithm complexity |
+| ⬜ | 0.1.2 | 1.2 Testing your own program |
+| ⬜ | 0.1.3 | 1.3 Test automation |
+| ⬜ | 0.1.4 | Contest 1 |
+| ⬜ | 0.1.5 | Contest 2 |
+| ⬜ | 0.2.0 | Contest 3 |
 
 ### Block 2: Sets and dictionaries
-| # | Topic | Status |
-|---|-------|--------|
-| 0.2.1 | 2.1 Sets | ⬜ |
-| 0.2.2 | 2.2 Dictionaries | ⬜ |
-| 0.2.3 | 2.3 Hash tables | ⬜ |
-| 0.2.4 | Contest 4 | ⬜ |
-| 0.2.5 | Contest 5 | ⬜ |
-| 0.3.0 | Contest 6 | ⬜ |
+| Status | # | Topic |
+|--------|---|-------|
+| ⬜ | 0.2.1 | 2.1 Sets |
+| ⬜ | 0.2.2 | 2.2 Dictionaries |
+| ⬜ | 0.2.3 | 2.3 Hash tables |
+| ⬜ | 0.2.4 | Contest 4 |
+| ⬜ | 0.2.5 | Contest 5 |
+| ⬜ | 0.3.0 | Contest 6 |
 
 ### Block 3: Prefix sums and two pointers
-| # | Topic | Status |
-|---|-------|--------|
-| 0.3.1 | 3.1 Prefix sums | ⬜ |
-| 0.3.2 | 3.2 Two pointers | ⬜ |
-| 0.3.3 | 3.3 Sliding window | ⬜ |
-| 0.3.4 | Contest 7 | ⬜ |
-| 0.3.5 | Contest 8 | ⬜ |
-| 0.4.0 | Contest 9 | ⬜ |
+| Status | # | Topic |
+|--------|---|-------|
+| ⬜ | 0.3.1 | 3.1 Prefix sums |
+| ⬜ | 0.3.2 | 3.2 Two pointers |
+| ⬜ | 0.3.3 | 3.3 Sliding window |
+| ⬜ | 0.3.4 | Contest 7 |
+| ⬜ | 0.3.5 | Contest 8 |
+| ⬜ | 0.4.0 | Contest 9 |
 
 ### Block 4: Stacks, queues, deques
-| # | Topic | Status |
-|---|-------|--------|
-| 0.4.1 | 4.1 Stacks | ⬜ |
-| 0.4.2 | 4.2 Queues and deques | ⬜ |
-| 0.4.3 | 4.3 Expression evaluation | ⬜ |
-| 0.4.4 | Contest 10 | ⬜ |
-| 0.4.5 | Contest 11 | ⬜ |
-| 1.0.0 | Contest 12 | ⬜ |
+| Status | # | Topic |
+|--------|---|-------|
+| ⬜ | 0.4.1 | 4.1 Stacks |
+| ⬜ | 0.4.2 | 4.2 Queues and deques |
+| ⬜ | 0.4.3 | 4.3 Expression evaluation |
+| ⬜ | 0.4.4 | Contest 10 |
+| ⬜ | 0.4.5 | Contest 11 |
+| ⬜ | 1.0.0 | Contest 12 |
 
 ## Technologies
 

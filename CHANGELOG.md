@@ -14,6 +14,20 @@ Version numbers follow the training structure.
 
 ---
 
+## [0.1.0] - 2025-03-16
+
+### Added
+- Warmup block completed according to the training roadmap.
+- Contest workflow: for each contest problem keep two variants of the solution:
+  - contest-time version in `Main`;
+  - refined, documented version in `MainRefined`.
+
+### Changed
+- README rework: Status column moved to first position in all progress tables; added links to contest, problem statements, and solution files (contest / refined).
+- IntelliJ inspection profile (optional local IDE setting; safe to ignore): restrict duplicate-code inspection to the same file only, because each solution must be fully self-contained.
+
+---
+
 ## [0.0.0] - 2025-03-15
 
 ### Added

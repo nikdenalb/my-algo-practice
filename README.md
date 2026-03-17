@@ -8,17 +8,25 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 | Status | # | Topic | Task 1 | Task 2 |
 |--------|---|-------|--------|--------|
-| ✅ | 0.1.0 | [Test contest](https://new.contest.yandex.ru/contests/89606) | [Decode the string](https://new.contest.yandex.ru/contests/89606/problems?id=30404%2F2023_02_12%2FLiYbwI4iG4)<br>[contest](src/warmup/task1/Main.java) \| [refined](src/warmup/task1/MainRefined.java) | [Oligopoly](https://new.contest.yandex.ru/contests/89606/problems?id=30404%2F2026_02_06%2F1U5A7PMMJk)<br>[contest](src/warmup/task2/Main.java) \| [refined](src/warmup/task2/MainRefined.java) |
+| ✅ | 0.1.0 | [Test contest](https://new.contest.yandex.ru/contests/89606)<br>[Editorial](https://vkvideo.ru/video-220652761_456240094) (from 36:00) | [Decode the string](https://new.contest.yandex.ru/contests/89606/problems?id=30404%2F2023_02_12%2FLiYbwI4iG4)<br>[contest](src/warmup/task1/Main.java) \| [refined](src/warmup/task1/MainRefined.java) | [Oligopoly](https://new.contest.yandex.ru/contests/89606/problems?id=30404%2F2026_02_06%2F1U5A7PMMJk)<br>[contest](src/warmup/task2/Main.java) \| [refined](src/warmup/task2/MainRefined.java) |
 
 ### Block 1: Complexity, testing, edge cases
-| Status | # | Topic |
-|--------|---|-------|
-| ⬜ | 0.1.1 | 1.1 Algorithm complexity |
-| ⬜ | 0.1.2 | 1.2 Testing your own program |
-| ⬜ | 0.1.3 | 1.3 Test automation |
-| ⬜ | 0.1.4 | Contest 1 |
-| ⬜ | 0.1.5 | Contest 2 |
-| ⬜ | 0.2.0 | Contest 3 |
+
+[**Theory**](https://vkvideo.ru/video-220652761_456240094)
+
+| Status | # | Topic | Task A | Task B |
+|--------|---|-------|--------|--------|
+| ✅ | 0.1.1 | [1.1 Algorithm complexity](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_1_L_draft3.mp4)<br>[Practice](https://new.contest.yandex.ru/contests/89513) \| [Editorial](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_1_Z_draft3.mp4) | [Tree painting](https://new.contest.yandex.ru/contests/89513/problems?id=30404%2F2019_04_20%2F0vHYYXV4gG)<br>[solution](src/block1/practice1/taska/Main.java) | [Ambulance](https://new.contest.yandex.ru/contests/89513/problems?id=56057%2F2015_11_22%2F76mwS29eYw)<br>[solution](src/block1/practice1/taskb/Main.java) |
+| ⬜ | 0.1.2 | 1.2 Testing your own program | — | — |
+| ⬜ | 0.1.3 | 1.3 Test automation | — | — |
+
+**Contests**
+
+| Status | # | Topic | Task 1 | Task 2 |
+|--------|---|-------|--------|--------|
+| ⬜ | 0.1.4 | Contest 1 | — | — |
+| ⬜ | 0.1.5 | Contest 2 | — | — |
+| ⬜ | 0.2.0 | Contest 3 | — | — |
 
 ### Block 2: Sets and dictionaries
 | Status | # | Topic |

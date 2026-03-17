@@ -2,6 +2,8 @@
 
 This file records the main changes in the project. The current roadmap is in [README](README.md).
 
+**Recording policy:** VERSION is the record of plan completion (roadmap versions). CHANGELOG documents only changes beyond the plan — refactoring that touches other zones, structural or convention updates.
+
 ## Versioning
 
 Version numbers follow the training structure.
@@ -14,10 +16,17 @@ Version numbers follow the training structure.
 
 ---
 
+## [0.1.1] - 2025-03-16
+
+### Changed
+- CHANGELOG: removed plan completion summary lines; recording policy documented above.
+- Minor Javadoc refactor in warmup task2: constraints notation (1e5/1e9 → 10<sup>5</sup>/10<sup>9</sup>).
+
+---
+
 ## [0.1.0] - 2025-03-16
 
 ### Added
-- Warmup block completed according to the training roadmap.
 - Contest workflow: for each contest problem keep two variants of the solution:
   - contest-time version in `Main`;
   - refined, documented version in `MainRefined`.

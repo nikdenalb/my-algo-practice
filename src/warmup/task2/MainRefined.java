@@ -20,7 +20,7 @@ public class MainRefined {
      * Determines for each company whether it can theoretically become a winner
      * in the "Oligopoly" game with the given starting capitals.
      * <br>
-     * Constraints: 1 ≤ N ≤ 1e5, 1 ≤ a[i] ≤ 1e9, the array is given in
+     * Constraints: 1 ≤ N ≤ 10<sup>5</sup>, 1 ≤ a[i] ≤ 10<sup>9</sup>, the array is given in
      * non-decreasing order.
      *
      * @param arr non-decreasing array of company capitals
@@ -46,6 +46,7 @@ public class MainRefined {
 
         return arr;
     }
+
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));

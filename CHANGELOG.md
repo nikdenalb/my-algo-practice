@@ -16,6 +16,14 @@ Version numbers follow the training structure.
 
 ---
 
+## [0.1.2] - 2026-03-18
+
+### Changed
+- README: progress table conventions updated (task letter formatting `**A:**`, explicit `1st/2nd/3rd/4th task` columns, consistent naming for test-design tasks via `(tests)`).
+- Block 1 practice: package/paths normalized from `block1.practice1.*` to `block1.practice.*`.
+
+---
+
 ## [0.1.1] - 2025-03-16
 
 ### Changed

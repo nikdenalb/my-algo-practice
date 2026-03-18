@@ -1,0 +1,39 @@
+20
+20 10 heat
+20 20 heat
+20 30 heat
+-20 -10 heat
+-20 -20 heat
+-20 -30 heat
+20 10 freeze
+20 20 freeze
+-20 -10 freeze
+-20 -30 freeze
+20 10 fan
+20 30 fan
+-20 -10 fan
+-20 -20 fan
+-20 -30 fan
+20 10 auto
+20 20 auto
+20 30 auto
+-20 -10 auto
+-20 -30 auto
+
+# https://new.contest.yandex.ru/contests/89514/problems?id=30404%2F2024_10_20%2FOfoOm3Naao
+
+Solution from Editorial:
+
+12
+0 20 freeze
+-10 -10 freeze
+20 10 freeze
+10 20 heat
+-10 -10 heat
+20 10 heat
+10 20 fan
+-10 -10 fan
+20 10 fan
+10 20 auto
+-10 -10 auto
+20 10 auto

@@ -1,4 +1,4 @@
-package block1.practice1.taska;
+package block1.practice.taska;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

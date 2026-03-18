@@ -14,11 +14,11 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 [**Theory**](https://vkvideo.ru/video-220652761_456240094)
 
-| Status | # | Topic | Task A | Task B |
-|--------|---|-------|--------|--------|
-| ✅ | 0.1.1 | [1.1 Algorithm complexity](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_1_L_draft3.mp4)<br>[Practice](https://new.contest.yandex.ru/contests/89513) \| [Editorial](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_1_Z_draft3.mp4) | [Tree painting](https://new.contest.yandex.ru/contests/89513/problems?id=30404%2F2019_04_20%2F0vHYYXV4gG)<br>[solution](src/block1/practice1/taska/Main.java) | [Ambulance](https://new.contest.yandex.ru/contests/89513/problems?id=56057%2F2015_11_22%2F76mwS29eYw)<br>[solution](src/block1/practice1/taskb/Main.java) |
-| ⬜ | 0.1.2 | 1.2 Testing your own program | — | — |
-| ⬜ | 0.1.3 | 1.3 Test automation | — | — |
+| Status | # | Topic | 1st task | 2nd task | 3rd task | 4th task |
+|--------|---|-------|----------|----------|----------|----------|
+| ✅ | 0.1.1 | [1.1 Algorithm complexity](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_1_L_draft3.mp4)<br>[Practice](https://new.contest.yandex.ru/contests/89513) \| [Editorial](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_1_Z_draft3.mp4) | **A:** [Tree painting](https://new.contest.yandex.ru/contests/89513/problems?id=30404%2F2019_04_20%2F0vHYYXV4gG)<br>[solution](src/block1/practice/taska/Main.java) | **B:** [Ambulance](https://new.contest.yandex.ru/contests/89513/problems?id=56057%2F2015_11_22%2F76mwS29eYw)<br>[solution](src/block1/practice/taskb/Main.java) | — | — |
+| ✅ | 0.1.2 | [1.2 Testing your own program](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_2_L_draft3.mp4)<br>[Practice](https://new.contest.yandex.ru/contests/89514) \| [Editorial](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_2_Z_draft4.mp4) | **C:** [Air conditioner (tests)](https://new.contest.yandex.ru/contests/89514/problems?id=30404%2F2024_10_20%2FOfoOm3Naao)<br>[solution](src/block1/practice/taskc/Main) | **D:** [Air conditioner](https://new.contest.yandex.ru/contests/89514/problems?id=30404%2F2021_05_13%2FrFKSEzJqpU)<br>[solution](src/block1/practice/taskd/Main.java) | **E:** [Maximum product of two numbers (tests)](https://new.contest.yandex.ru/contests/89514/problems?id=30404%2F2024_10_20%2FHAb5mBblNi)<br>[solution](src/block1/practice/taske/Main) | **F:** [Maximum product of two numbers](https://new.contest.yandex.ru/contests/89514/problems?id=175943%2F2016_10_02%2FaTZNpVtH2V)<br>[solution](src/block1/practice/taskf/Main.java) |
+| ⬜ | 0.1.3 | 1.3 Test automation | — | — | — | — |
 
 **Contests**
 

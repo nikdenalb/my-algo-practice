@@ -16,6 +16,13 @@ Version numbers follow the training structure.
 
 ---
 
+## [0.1.3] - 2026-03-19
+
+### Changed
+- CHANGELOG: fix 0.1.1 date (2025-03-16 → 2025-03-17)
+
+---
+
 ## [0.1.2] - 2026-03-18
 
 ### Changed
@@ -24,7 +31,7 @@ Version numbers follow the training structure.
 
 ---
 
-## [0.1.1] - 2025-03-16
+## [0.1.1] - 2025-03-17
 
 ### Changed
 - CHANGELOG: removed plan completion summary lines; recording policy documented above.

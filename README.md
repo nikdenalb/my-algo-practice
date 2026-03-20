@@ -4,11 +4,35 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 ## Progress
 
+| № | Task 1 | Task 2 | Penalty |
+|---|--------|--------|---------|
+| Next goal | solve 1 | solve 1 | 1 (∞) |
+| [Contest 1](https://new.contest.yandex.ru/contests/89533) | +<br>[00:12](src/block1/practice/contest1/task1/Main.java) | +<br>[00:44](src/block1/practice/contest1/task2/Main.java) | 2 (57) |
+| Contest 2 | — | — | — |
+| Contest 3 | — | — | — |
+| Contest 4 | — | — | — |
+| Contest 5 | — | — | — |
+| Contest 6 | — | — | — |
+| Result | — | — | 2 (57) |
+| Contest 7 | — | — | — |
+| Contest 8 | — | — | — |
+| Contest 9 | — | — | — |
+| Contest 10 | — | — | — |
+| Contest 11 | — | — | — |
+| Contest 12 | — | — | — |
+
 ### Warmup
 
-| Status | # | Topic | Task 1 | Task 2 |
-|--------|---|-------|--------|--------|
-| ✅ | 0.1.0 | [Test contest](https://new.contest.yandex.ru/contests/89606)<br>[Editorial](https://vkvideo.ru/video-220652761_456240094) (from 36:00) | [Decode the string](https://new.contest.yandex.ru/contests/89606/problems?id=30404%2F2023_02_12%2FLiYbwI4iG4)<br>[contest](src/warmup/task1/Main.java) \| [refined](src/warmup/task1/MainRefined.java) | [Oligopoly](https://new.contest.yandex.ru/contests/89606/problems?id=30404%2F2026_02_06%2F1U5A7PMMJk)<br>[contest](src/warmup/task2/Main.java) \| [refined](src/warmup/task2/MainRefined.java) |
+**0.1.0** ✅
+
+**Test contest:** [Yandex Contest](https://new.contest.yandex.ru/contests/89606)
+
+**Editorial:** [VK Video](https://vkvideo.ru/video-220652761_456240094) (from 36:00)
+
+| # | Task link | Live solution | Refined solution |
+|---|------|---------------|------------------|
+| Task 1 | [Decode the string](https://new.contest.yandex.ru/contests/89606/problems?id=30404%2F2023_02_12%2FLiYbwI4iG4) | [Main.java](src/warmup/task1/Main.java) | [MainRefined.java](src/warmup/task1/MainRefined.java) |
+| Task 2 | [Oligopoly](https://new.contest.yandex.ru/contests/89606/problems?id=30404%2F2026_02_06%2F1U5A7PMMJk) | [Main.java](src/warmup/task2/Main.java) | [MainRefined.java](src/warmup/task2/MainRefined.java) |
 
 ### Block 1: Complexity, testing, edge cases
 
@@ -22,11 +46,32 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 **Contests**
 
-| Status | # | Topic | Task 1 | Task 2 |
-|--------|---|-------|--------|--------|
-| ⬜ | 0.1.4 | Contest 1 | — | — |
-| ⬜ | 0.1.5 | Contest 2 | — | — |
-| ⬜ | 0.2.0 | Contest 3 | — | — |
+**0.1.4** ⬜
+
+**Contest 1:** [Yandex Contest](https://new.contest.yandex.ru/contests/89533)
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | [Domino placement](https://new.contest.yandex.ru/contests/89533/problems?id=30404%2F2026_03_01%2FddXXToAYxk&contestId=89533) | [Main.java](src/block1/practice/contest1/task1/Main.java) | [MainRefined.java](src/block1/practice/contest1/task1/MainRefined.java) |
+| Task 2 | [Standing wave](https://new.contest.yandex.ru/contests/89533/problems?id=30404%2F2026_03_01%2FP9YvSLqof7&contestId=89533) | [Main.java](src/block1/practice/contest1/task2/Main.java) | [MainRefined.java](src/block1/practice/contest1/task2/MainRefined.java) |
+
+**0.1.5** ⬜
+
+**Contest 2:** [Yandex Contest](#)
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | — | — | — |
+| Task 2 | — | — | — |
+
+**0.2.0** ⬜
+
+**Contest 3:** [Yandex Contest](#)
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | — | — | — |
+| Task 2 | — | — | — |
 
 ### Block 2: Sets and dictionaries
 | Status | # | Topic |

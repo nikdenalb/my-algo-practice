@@ -16,6 +16,14 @@ Version numbers follow the training structure.
 
 ---
 
+## [0.1.4] - 2026-03-20
+
+### Changed
+- README: redesign of contest display for Warmup and Block 1.
+- README: contest rating table at top of Progress (№, Task 1, Task 2, Penalty).
+
+---
+
 ## [0.1.3] - 2026-03-19
 
 ### Changed

@@ -7,13 +7,13 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | № | Task 1 | Task 2 | Penalty |
 |---|--------|--------|---------|
 | Next goal | solve 1 | solve 1 | 1 (∞) |
+| [Contest 2](https://new.contest.yandex.ru/contests/89534) | +<br>[00:10](src/block1/practice/contest2/task1/Main.java) | +<br>[00:25](src/block1/practice/contest2/task2/Main.java) | 2 (35) |
 | [Contest 1](https://new.contest.yandex.ru/contests/89533) | +<br>[00:12](src/block1/practice/contest1/task1/Main.java) | +<br>[00:44](src/block1/practice/contest1/task2/Main.java) | 2 (57) |
-| Contest 2 | — | — | — |
 | Contest 3 | — | — | — |
 | Contest 4 | — | — | — |
 | Contest 5 | — | — | — |
 | Contest 6 | — | — | — |
-| Result | — | — | 2 (57) |
+| Result | — | — | 4 (92) |
 | Contest 7 | — | — | — |
 | Contest 8 | — | — | — |
 | Contest 9 | — | — | — |
@@ -46,7 +46,7 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 **Contests**
 
-**0.1.4** ⬜
+**0.1.4** ✅
 
 **Contest 1:** [Yandex Contest](https://new.contest.yandex.ru/contests/89533)
 
@@ -55,18 +55,18 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Task 1 | [Domino placement](https://new.contest.yandex.ru/contests/89533/problems?id=30404%2F2026_03_01%2FddXXToAYxk&contestId=89533) | [Main.java](src/block1/practice/contest1/task1/Main.java) | [MainRefined.java](src/block1/practice/contest1/task1/MainRefined.java) |
 | Task 2 | [Standing wave](https://new.contest.yandex.ru/contests/89533/problems?id=30404%2F2026_03_01%2FP9YvSLqof7&contestId=89533) | [Main.java](src/block1/practice/contest1/task2/Main.java) | [MainRefined.java](src/block1/practice/contest1/task2/MainRefined.java) |
 
-**0.1.5** ⬜
+**0.1.5** ✅
 
-**Contest 2:** [Yandex Contest](#)
+**Contest 2:** [Yandex Contest](https://new.contest.yandex.ru/contests/89534)
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
-| Task 1 | — | — | — |
-| Task 2 | — | — | — |
+| Task 1 | [Ahaha](https://new.contest.yandex.ru/contests/89534/problems?id=30404%2F2026_03_01%2FlSDcPWTDzA&contestId=89534) | [Main.java](src/block1/practice/contest2/task1/Main.java) | [MainRefined.java](src/block1/practice/contest2/task1/MainRefined.java) |
+| Task 2 | [Sheet packing](https://new.contest.yandex.ru/contests/89534/problems?id=30404%2F2026_03_01%2F2ND2RB8F4R&contestId=89534) | [Main.java](src/block1/practice/contest2/task2/Main.java) | [MainRefined.java](src/block1/practice/contest2/task2/MainRefined.java) |
 
 **0.2.0** ⬜
 
-**Contest 3:** [Yandex Contest](#)
+**Contest 3:** Yandex Contest
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
@@ -74,34 +74,121 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Task 2 | — | — | — |
 
 ### Block 2: Sets and dictionaries
-| Status | # | Topic |
-|--------|---|-------|
-| ⬜ | 0.2.1 | 2.1 Sets |
-| ⬜ | 0.2.2 | 2.2 Dictionaries |
-| ⬜ | 0.2.3 | 2.3 Hash tables |
-| ⬜ | 0.2.4 | Contest 4 |
-| ⬜ | 0.2.5 | Contest 5 |
-| ⬜ | 0.3.0 | Contest 6 |
+
+**Theory**
+
+| Status | # | Topic | 1st task | 2nd task | 3rd task | 4th task |
+|--------|---|-------|----------|----------|----------|----------|
+| ⬜ | 0.2.1 | 2.1 Sets<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.2.2 | 2.2 Dictionaries<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.2.3 | 2.3 Hash tables<br>Practice \| Editorial | — | — | — | — |
+
+**Contests**
+
+**0.2.4** ⬜
+
+**Contest 4:** Yandex Contest
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | — | — | — |
+| Task 2 | — | — | — |
+
+**0.2.5** ⬜
+
+**Contest 5:** Yandex Contest
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | — | — | — |
+| Task 2 | — | — | — |
+
+**0.3.0** ⬜
+
+**Contest 6:** Yandex Contest
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | — | — | — |
+| Task 2 | — | — | — |
 
 ### Block 3: Prefix sums and two pointers
-| Status | # | Topic |
-|--------|---|-------|
-| ⬜ | 0.3.1 | 3.1 Prefix sums |
-| ⬜ | 0.3.2 | 3.2 Two pointers |
-| ⬜ | 0.3.3 | 3.3 Sliding window |
-| ⬜ | 0.3.4 | Contest 7 |
-| ⬜ | 0.3.5 | Contest 8 |
-| ⬜ | 0.4.0 | Contest 9 |
+
+**Theory**
+
+| Status | # | Topic | 1st task | 2nd task | 3rd task | 4th task |
+|--------|---|-------|----------|----------|----------|----------|
+| ⬜ | 0.3.1 | 3.1 Prefix sums<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.3.2 | 3.2 Two pointers<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.3.3 | 3.3 Sliding window<br>Practice \| Editorial | — | — | — | — |
+
+**Contests**
+
+**0.3.4** ⬜
+
+**Contest 7:** Yandex Contest
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | — | — | — |
+| Task 2 | — | — | — |
+
+**0.3.5** ⬜
+
+**Contest 8:** Yandex Contest
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | — | — | — |
+| Task 2 | — | — | — |
+
+**0.4.0** ⬜
+
+**Contest 9:** Yandex Contest
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | — | — | — |
+| Task 2 | — | — | — |
 
 ### Block 4: Stacks, queues, deques
-| Status | # | Topic |
-|--------|---|-------|
-| ⬜ | 0.4.1 | 4.1 Stacks |
-| ⬜ | 0.4.2 | 4.2 Queues and deques |
-| ⬜ | 0.4.3 | 4.3 Expression evaluation |
-| ⬜ | 0.4.4 | Contest 10 |
-| ⬜ | 0.4.5 | Contest 11 |
-| ⬜ | 1.0.0 | Contest 12 |
+
+**Theory**
+
+| Status | # | Topic | 1st task | 2nd task | 3rd task | 4th task |
+|--------|---|-------|----------|----------|----------|----------|
+| ⬜ | 0.4.1 | 4.1 Stacks<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.4.2 | 4.2 Queues and deques<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.4.3 | 4.3 Expression evaluation<br>Practice \| Editorial | — | — | — | — |
+
+**Contests**
+
+**0.4.4** ⬜
+
+**Contest 10:** Yandex Contest
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | — | — | — |
+| Task 2 | — | — | — |
+
+**0.4.5** ⬜
+
+**Contest 11:** Yandex Contest
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | — | — | — |
+| Task 2 | — | — | — |
+
+**1.0.0** ⬜
+
+**Contest 12:** Yandex Contest
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | — | — | — |
+| Task 2 | — | — | — |
 
 ## Technologies
 

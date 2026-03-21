@@ -26,5 +26,8 @@ bin/
 ### VS Code ###
 .vscode/
 
+### Cursor ###
+.cursor/
+
 ### Mac OS ###
 .DS_Store

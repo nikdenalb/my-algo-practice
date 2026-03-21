@@ -16,6 +16,14 @@ Version numbers follow the training structure.
 
 ---
 
+## [0.1.5] - unreleased
+
+### Changed
+- .gitignore: ignore `.cursor/`.
+- README: full roadmap brought to the style established in 0.1.4 (theory and contests for Blocks 2–4); placeholder links removed.
+
+---
+
 ## [0.1.4] - 2026-03-20
 
 ### Changed

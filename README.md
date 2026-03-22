@@ -9,11 +9,11 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Next goal | solve 1 | solve 1 | 1 (∞) |
 | [Contest 2](https://new.contest.yandex.ru/contests/89534) | +<br>[00:10](src/block1/practice/contest2/task1/Main.java) | +<br>[00:25](src/block1/practice/contest2/task2/Main.java) | 2 (35) |
 | [Contest 1](https://new.contest.yandex.ru/contests/89533) | +<br>[00:12](src/block1/practice/contest1/task1/Main.java) | +<br>[00:44](src/block1/practice/contest1/task2/Main.java) | 2 (57) |
-| Contest 3 | — | — | — |
+| [Contest 3](https://new.contest.yandex.ru/contests/89535) | +<br>[00:10](src/block1/practice/contest3/task1/Main.java) | -<br>[failed](src/block1/practice/contest3/task2/Main.java) | 1 (10) |
 | Contest 4 | — | — | — |
 | Contest 5 | — | — | — |
 | Contest 6 | — | — | — |
-| Result | — | — | 4 (92) |
+| Result | — | — | 5 (102) |
 | Contest 7 | — | — | — |
 | Contest 8 | — | — | — |
 | Contest 9 | — | — | — |
@@ -64,14 +64,14 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Task 1 | [Ahaha](https://new.contest.yandex.ru/contests/89534/problems?id=30404%2F2026_03_01%2FlSDcPWTDzA&contestId=89534) | [Main.java](src/block1/practice/contest2/task1/Main.java) | [MainRefined.java](src/block1/practice/contest2/task1/MainRefined.java) |
 | Task 2 | [Sheet packing](https://new.contest.yandex.ru/contests/89534/problems?id=30404%2F2026_03_01%2F2ND2RB8F4R&contestId=89534) | [Main.java](src/block1/practice/contest2/task2/Main.java) | [MainRefined.java](src/block1/practice/contest2/task2/MainRefined.java) |
 
-**0.2.0** ⬜
+**0.2.0** ✅
 
-**Contest 3:** Yandex Contest
+**Contest 3:** [Yandex Contest](https://new.contest.yandex.ru/contests/89535)
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
-| Task 1 | — | — | — |
-| Task 2 | — | — | — |
+| Task 1 | [Rebus](https://new.contest.yandex.ru/contests/89535/problems?id=30404%2F2026_03_01%2FPbJ66A8D1W&contestId=89535) | [Main.java](src/block1/practice/contest3/task1/Main.java) | [MainRefined.java](src/block1/practice/contest3/task1/MainRefined.java) |
+| Task 2 | [Bunker exam](https://new.contest.yandex.ru/contests/89535/problems?id=30404%2F2026_03_01%2FaTLZNKrRRU&contestId=89535) | [Main.java](src/block1/practice/contest3/task2/Main.java) | [MainRefined.java](src/block1/practice/contest3/task2/MainRefined.java) |
 
 ### Block 2: Sets and dictionaries
 

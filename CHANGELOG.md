@@ -16,7 +16,14 @@ Version numbers follow the training structure.
 
 ---
 
-## [0.1.5] - unreleased
+## [0.2.0] - 2026-03-22
+
+### Fixed
+- CHANGELOG: align dates with commit dates (0.1.5 unreleased → 2026-03-21, 0.1.1/0.1.0/0.0.0 year 2025 → 2026).
+
+---
+
+## [0.1.5] - 2026-03-21
 
 ### Changed
 - .gitignore: ignore `.cursor/`.
@@ -35,7 +42,7 @@ Version numbers follow the training structure.
 ## [0.1.3] - 2026-03-19
 
 ### Changed
-- CHANGELOG: fix 0.1.1 date (2025-03-16 → 2025-03-17)
+- CHANGELOG: fix 0.1.1 date (2026-03-16 → 2026-03-17)
 
 ---
 
@@ -47,7 +54,7 @@ Version numbers follow the training structure.
 
 ---
 
-## [0.1.1] - 2025-03-17
+## [0.1.1] - 2026-03-17
 
 ### Changed
 - CHANGELOG: removed plan completion summary lines; recording policy documented above.
@@ -55,7 +62,7 @@ Version numbers follow the training structure.
 
 ---
 
-## [0.1.0] - 2025-03-16
+## [0.1.0] - 2026-03-16
 
 ### Added
 - Contest workflow: for each contest problem keep two variants of the solution:
@@ -68,7 +75,7 @@ Version numbers follow the training structure.
 
 ---
 
-## [0.0.0] - 2025-03-15
+## [0.0.0] - 2026-03-15
 
 ### Added
 - Project setup: Java 23 (Eclipse Temurin), build and run via IntelliJ (JPS), [repository](https://github.com/nikdenalb/my-algo-practice)

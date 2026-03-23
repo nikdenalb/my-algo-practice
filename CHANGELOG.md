@@ -14,6 +14,19 @@ Version numbers follow the training structure.
 | **Minor** | Block/section progression. Increments when moving to the next block. |
 | **Patch** | Individual lessons and contests within a block. |
 
+Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
+
+---
+
+## [0.2.0a] - 2026-03-23
+
+### Added
+- README: Editorial [VK Video](https://vkvideo.ru/video-220652761_456240128) for Block 1 contests.
+- README: Bonus column for Contest 3 with [YouTube](https://youtu.be/RoU_Du18Uh8) for Task 2.
+
+### Changed
+- [MainRefined.java](src/block1/practice/contest3/task2/MainRefined.java): simplified `checkDivs`, inlined `checkRows` logic.
+
 ---
 
 ## [0.2.0] - 2026-03-22

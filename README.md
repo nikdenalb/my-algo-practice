@@ -46,6 +46,8 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 **Contests**
 
+**Editorial:** [VK Video](https://vkvideo.ru/video-220652761_456240128)
+
 **0.1.4** ✅
 
 **Contest 1:** [Yandex Contest](https://new.contest.yandex.ru/contests/89533)
@@ -68,10 +70,10 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 **Contest 3:** [Yandex Contest](https://new.contest.yandex.ru/contests/89535)
 
-| # | Task link | Live solution | Refined solution |
-|---|-----------|---------------|------------------|
-| Task 1 | [Rebus](https://new.contest.yandex.ru/contests/89535/problems?id=30404%2F2026_03_01%2FPbJ66A8D1W&contestId=89535) | [Main.java](src/block1/practice/contest3/task1/Main.java) | [MainRefined.java](src/block1/practice/contest3/task1/MainRefined.java) |
-| Task 2 | [Bunker exam](https://new.contest.yandex.ru/contests/89535/problems?id=30404%2F2026_03_01%2FaTLZNKrRRU&contestId=89535) | [Main.java](src/block1/practice/contest3/task2/Main.java) | [MainRefined.java](src/block1/practice/contest3/task2/MainRefined.java) |
+| # | Task link | Live solution | Refined solution | Bonus |
+|---|-----------|---------------|------------------|-------|
+| Task 1 | [Rebus](https://new.contest.yandex.ru/contests/89535/problems?id=30404%2F2026_03_01%2FPbJ66A8D1W&contestId=89535) | [Main.java](src/block1/practice/contest3/task1/Main.java) | [MainRefined.java](src/block1/practice/contest3/task1/MainRefined.java) | — |
+| Task 2 | [Bunker exam](https://new.contest.yandex.ru/contests/89535/problems?id=30404%2F2026_03_01%2FaTLZNKrRRU&contestId=89535) | [Main.java](src/block1/practice/contest3/task2/Main.java) | [MainRefined.java](src/block1/practice/contest3/task2/MainRefined.java) | [YouTube](https://youtu.be/RoU_Du18Uh8) |
 
 ### Block 2: Sets and dictionaries
 

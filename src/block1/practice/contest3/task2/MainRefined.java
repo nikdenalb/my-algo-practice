@@ -31,21 +31,8 @@ public class MainRefined {
     long out;
 
     void checkDivs(long num) {
-        for (long i = 1; i <= num / i; i++) {
-            if (num % i == 0) {
-                checkRows(i);
-                if (num / i != i) checkRows(num / i);
-            }
-        }
-    }
-
-    void checkRows(long rows) {
-        long bigCols = n % rows;
-
-        if (bigCols == 0 || bigCols == rows / 2 || bigCols == (rows + 1) / 2) {
-            long hBigCol = (n + rows - 1) / rows;
-            out = Math.min(Math.abs(rows - hBigCol), out);
-        }
+        for (long i = 1; i <= num / i; i++) if (num % i == 0)
+            out = Math.min(Math.abs(i - (n + i - 1) / i), out);
     }
 
 

@@ -18,6 +18,15 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [0.2.1] - 2026-03-24
+
+### Changed
+- Block 1: remove `practice` folder, move contents to `block1/` (packages `block1.practice.*` → `block1.*`).
+- README: Block 2 theory aligned with [Yandex program](https://yandex.ru/yaintern/training/algorithm-training#programs__custom) — 4 topics (2.1 How a set works, 2.2 Problems on sets, 2.3 Problems on dictionaries, 2.4 Counting occurrences), contests renumbered (0.2.5, 0.2.6).
+- README: update all Block 1 solution links.
+
+---
+
 ## [0.2.0a] - 2026-03-23
 
 ### Added
@@ -25,7 +34,7 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 - README: Bonus column for Contest 3 with [YouTube](https://youtu.be/RoU_Du18Uh8) for Task 2.
 
 ### Changed
-- [MainRefined.java](src/block1/practice/contest3/task2/MainRefined.java): simplified `checkDivs`, inlined `checkRows` logic.
+- [MainRefined.java](src/block1/contest3/task2/MainRefined.java): simplified `checkDivs`, inlined `checkRows` logic.
 
 ---
 

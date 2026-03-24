@@ -7,9 +7,9 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | № | Task 1 | Task 2 | Penalty |
 |---|--------|--------|---------|
 | Next goal | solve 1 | solve 1 | 1 (∞) |
-| [Contest 2](https://new.contest.yandex.ru/contests/89534) | +<br>[00:10](src/block1/practice/contest2/task1/Main.java) | +<br>[00:25](src/block1/practice/contest2/task2/Main.java) | 2 (35) |
-| [Contest 1](https://new.contest.yandex.ru/contests/89533) | +<br>[00:12](src/block1/practice/contest1/task1/Main.java) | +<br>[00:44](src/block1/practice/contest1/task2/Main.java) | 2 (57) |
-| [Contest 3](https://new.contest.yandex.ru/contests/89535) | +<br>[00:10](src/block1/practice/contest3/task1/Main.java) | -<br>[failed](src/block1/practice/contest3/task2/Main.java) | 1 (10) |
+| [Contest 2](https://new.contest.yandex.ru/contests/89534) | +<br>[00:10](src/block1/contest2/task1/Main.java) | +<br>[00:25](src/block1/contest2/task2/Main.java) | 2 (35) |
+| [Contest 1](https://new.contest.yandex.ru/contests/89533) | +<br>[00:12](src/block1/contest1/task1/Main.java) | +<br>[00:44](src/block1/contest1/task2/Main.java) | 2 (57) |
+| [Contest 3](https://new.contest.yandex.ru/contests/89535) | +<br>[00:10](src/block1/contest3/task1/Main.java) | -<br>[failed](src/block1/contest3/task2/Main.java) | 1 (10) |
 | Contest 4 | — | — | — |
 | Contest 5 | — | — | — |
 | Contest 6 | — | — | — |
@@ -40,9 +40,9 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 | Status | # | Topic | 1st task | 2nd task | 3rd task | 4th task |
 |--------|---|-------|----------|----------|----------|----------|
-| ✅ | 0.1.1 | [1.1 Algorithm complexity](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_1_L_draft3.mp4)<br>[Practice](https://new.contest.yandex.ru/contests/89513) \| [Editorial](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_1_Z_draft3.mp4) | **A:** [Tree painting](https://new.contest.yandex.ru/contests/89513/problems?id=30404%2F2019_04_20%2F0vHYYXV4gG)<br>[solution](src/block1/practice/taska/Main.java) | **B:** [Ambulance](https://new.contest.yandex.ru/contests/89513/problems?id=56057%2F2015_11_22%2F76mwS29eYw)<br>[solution](src/block1/practice/taskb/Main.java) | — | — |
-| ✅ | 0.1.2 | [1.2 Testing your own program](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_2_L_draft3.mp4)<br>[Practice](https://new.contest.yandex.ru/contests/89514) \| [Editorial](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_2_Z_draft4.mp4) | **C:** [Air conditioner (tests)](https://new.contest.yandex.ru/contests/89514/problems?id=30404%2F2024_10_20%2FOfoOm3Naao)<br>[solution](src/block1/practice/taskc/Main) | **D:** [Air conditioner](https://new.contest.yandex.ru/contests/89514/problems?id=30404%2F2021_05_13%2FrFKSEzJqpU)<br>[solution](src/block1/practice/taskd/Main.java) | **E:** [Maximum product of two numbers (tests)](https://new.contest.yandex.ru/contests/89514/problems?id=30404%2F2024_10_20%2FHAb5mBblNi)<br>[solution](src/block1/practice/taske/Main) | **F:** [Maximum product of two numbers](https://new.contest.yandex.ru/contests/89514/problems?id=175943%2F2016_10_02%2FaTZNpVtH2V)<br>[solution](src/block1/practice/taskf/Main.java) |
-| ✅ | 0.1.3 | [1.3 Test automation](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_3_L_draft3.mp4)<br>[Practice](https://new.contest.yandex.ru/contests/89515) \| [Editorial](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_3_Z_draft3.mp4) | **G:** [Houses and shops](https://new.contest.yandex.ru/contests/89515/problems?id=30404%2F2021_08_20%2FivtVjWoF0V&contestId=89515)<br>[solution](src/block1/practice/taskg/Main.java) | **H:** [Equation with square root](https://new.contest.yandex.ru/contests/89515/problems?id=30404%2F2020_09_26%2FE0bUCqDLBR&contestId=89515)<br>[solution](src/block1/practice/taskh/Main.java) | **I:** [T-shirts and socks](https://new.contest.yandex.ru/contests/89515/problems?id=30404%2F2024_10_19%2FGleLWiHsN0&contestId=89515)<br>[solution](src/block1/practice/taski/Main.java) | **J:** [Parallelogram](https://new.contest.yandex.ru/contests/89515/problems?id=30404%2F2021_08_19%2FQ28VmrWEnn&contestId=89515)<br>[solution](src/block1/practice/taskj/Main.java) |
+| ✅ | 0.1.1 | [1.1 Algorithm complexity](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_1_L_draft3.mp4)<br>[Practice](https://new.contest.yandex.ru/contests/89513) \| [Editorial](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_1_Z_draft3.mp4) | **A:** [Tree painting](https://new.contest.yandex.ru/contests/89513/problems?id=30404%2F2019_04_20%2F0vHYYXV4gG)<br>[solution](src/block1/taska/Main.java) | **B:** [Ambulance](https://new.contest.yandex.ru/contests/89513/problems?id=56057%2F2015_11_22%2F76mwS29eYw)<br>[solution](src/block1/taskb/Main.java) | — | — |
+| ✅ | 0.1.2 | [1.2 Testing your own program](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_2_L_draft3.mp4)<br>[Practice](https://new.contest.yandex.ru/contests/89514) \| [Editorial](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_2_Z_draft4.mp4) | **C:** [Air conditioner (tests)](https://new.contest.yandex.ru/contests/89514/problems?id=30404%2F2024_10_20%2FOfoOm3Naao)<br>[solution](src/block1/taskc/Main) | **D:** [Air conditioner](https://new.contest.yandex.ru/contests/89514/problems?id=30404%2F2021_05_13%2FrFKSEzJqpU)<br>[solution](src/block1/taskd/Main.java) | **E:** [Maximum product of two numbers (tests)](https://new.contest.yandex.ru/contests/89514/problems?id=30404%2F2024_10_20%2FHAb5mBblNi)<br>[solution](src/block1/taske/Main) | **F:** [Maximum product of two numbers](https://new.contest.yandex.ru/contests/89514/problems?id=175943%2F2016_10_02%2FaTZNpVtH2V)<br>[solution](src/block1/taskf/Main.java) |
+| ✅ | 0.1.3 | [1.3 Test automation](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_3_L_draft3.mp4)<br>[Practice](https://new.contest.yandex.ru/contests/89515) \| [Editorial](https://disk.yandex.ru/d/iQbfEuLDTFOjqg/B1_T_3_Z_draft3.mp4) | **G:** [Houses and shops](https://new.contest.yandex.ru/contests/89515/problems?id=30404%2F2021_08_20%2FivtVjWoF0V&contestId=89515)<br>[solution](src/block1/taskg/Main.java) | **H:** [Equation with square root](https://new.contest.yandex.ru/contests/89515/problems?id=30404%2F2020_09_26%2FE0bUCqDLBR&contestId=89515)<br>[solution](src/block1/taskh/Main.java) | **I:** [T-shirts and socks](https://new.contest.yandex.ru/contests/89515/problems?id=30404%2F2024_10_19%2FGleLWiHsN0&contestId=89515)<br>[solution](src/block1/taski/Main.java) | **J:** [Parallelogram](https://new.contest.yandex.ru/contests/89515/problems?id=30404%2F2021_08_19%2FQ28VmrWEnn&contestId=89515)<br>[solution](src/block1/taskj/Main.java) |
 
 **Contests**
 
@@ -54,8 +54,8 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
-| Task 1 | [Domino placement](https://new.contest.yandex.ru/contests/89533/problems?id=30404%2F2026_03_01%2FddXXToAYxk&contestId=89533) | [Main.java](src/block1/practice/contest1/task1/Main.java) | [MainRefined.java](src/block1/practice/contest1/task1/MainRefined.java) |
-| Task 2 | [Standing wave](https://new.contest.yandex.ru/contests/89533/problems?id=30404%2F2026_03_01%2FP9YvSLqof7&contestId=89533) | [Main.java](src/block1/practice/contest1/task2/Main.java) | [MainRefined.java](src/block1/practice/contest1/task2/MainRefined.java) |
+| Task 1 | [Domino placement](https://new.contest.yandex.ru/contests/89533/problems?id=30404%2F2026_03_01%2FddXXToAYxk&contestId=89533) | [Main.java](src/block1/contest1/task1/Main.java) | [MainRefined.java](src/block1/contest1/task1/MainRefined.java) |
+| Task 2 | [Standing wave](https://new.contest.yandex.ru/contests/89533/problems?id=30404%2F2026_03_01%2FP9YvSLqof7&contestId=89533) | [Main.java](src/block1/contest1/task2/Main.java) | [MainRefined.java](src/block1/contest1/task2/MainRefined.java) |
 
 **0.1.5** ✅
 
@@ -63,8 +63,8 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
-| Task 1 | [Ahaha](https://new.contest.yandex.ru/contests/89534/problems?id=30404%2F2026_03_01%2FlSDcPWTDzA&contestId=89534) | [Main.java](src/block1/practice/contest2/task1/Main.java) | [MainRefined.java](src/block1/practice/contest2/task1/MainRefined.java) |
-| Task 2 | [Sheet packing](https://new.contest.yandex.ru/contests/89534/problems?id=30404%2F2026_03_01%2F2ND2RB8F4R&contestId=89534) | [Main.java](src/block1/practice/contest2/task2/Main.java) | [MainRefined.java](src/block1/practice/contest2/task2/MainRefined.java) |
+| Task 1 | [Ahaha](https://new.contest.yandex.ru/contests/89534/problems?id=30404%2F2026_03_01%2FlSDcPWTDzA&contestId=89534) | [Main.java](src/block1/contest2/task1/Main.java) | [MainRefined.java](src/block1/contest2/task1/MainRefined.java) |
+| Task 2 | [Sheet packing](https://new.contest.yandex.ru/contests/89534/problems?id=30404%2F2026_03_01%2F2ND2RB8F4R&contestId=89534) | [Main.java](src/block1/contest2/task2/Main.java) | [MainRefined.java](src/block1/contest2/task2/MainRefined.java) |
 
 **0.2.0** ✅
 
@@ -72,8 +72,8 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 | # | Task link | Live solution | Refined solution | Bonus |
 |---|-----------|---------------|------------------|-------|
-| Task 1 | [Rebus](https://new.contest.yandex.ru/contests/89535/problems?id=30404%2F2026_03_01%2FPbJ66A8D1W&contestId=89535) | [Main.java](src/block1/practice/contest3/task1/Main.java) | [MainRefined.java](src/block1/practice/contest3/task1/MainRefined.java) | — |
-| Task 2 | [Bunker exam](https://new.contest.yandex.ru/contests/89535/problems?id=30404%2F2026_03_01%2FaTLZNKrRRU&contestId=89535) | [Main.java](src/block1/practice/contest3/task2/Main.java) | [MainRefined.java](src/block1/practice/contest3/task2/MainRefined.java) | [YouTube](https://youtu.be/RoU_Du18Uh8) |
+| Task 1 | [Rebus](https://new.contest.yandex.ru/contests/89535/problems?id=30404%2F2026_03_01%2FPbJ66A8D1W&contestId=89535) | [Main.java](src/block1/contest3/task1/Main.java) | [MainRefined.java](src/block1/contest3/task1/MainRefined.java) | — |
+| Task 2 | [Bunker exam](https://new.contest.yandex.ru/contests/89535/problems?id=30404%2F2026_03_01%2FaTLZNKrRRU&contestId=89535) | [Main.java](src/block1/contest3/task2/Main.java) | [MainRefined.java](src/block1/contest3/task2/MainRefined.java) | [YouTube](https://youtu.be/RoU_Du18Uh8) |
 
 ### Block 2: Sets and dictionaries
 
@@ -81,13 +81,14 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 | Status | # | Topic | 1st task | 2nd task | 3rd task | 4th task |
 |--------|---|-------|----------|----------|----------|----------|
-| ⬜ | 0.2.1 | 2.1 Sets<br>Practice \| Editorial | — | — | — | — |
-| ⬜ | 0.2.2 | 2.2 Dictionaries<br>Practice \| Editorial | — | — | — | — |
-| ⬜ | 0.2.3 | 2.3 Hash tables<br>Practice \| Editorial | — | — | — | — |
+| ✅ | 0.2.1 | [2.1 How a set works](https://vkvideo.ru/video-220652761_456240112)<br>[Practice](https://new.contest.yandex.ru/contests/89518) \| [Editorial](https://vkvideo.ru/video-220652761_456240113) | **A:** [Number of distinct numbers](https://new.contest.yandex.ru/contests/89518/problems?id=175943%2F2016_10_05%2FNepkmQOKvw)<br>[solution](src/block2/taska/Main.java) | **B:** [Has the number been seen before](https://new.contest.yandex.ru/contests/89518/problems?id=175943%2F2016_10_05%2FUMhQ1iX3LS)<br>[solution](src/block2/taskb/Main.java) | **C:** [Intersection of sets](https://new.contest.yandex.ru/contests/89518/problems?id=175943%2F2016_10_05%2FLq0Bt3dLjD)<br>[solution](src/block2/taskc/Main.java) | — |
+| ⬜ | 0.2.2 | [2.2 Problems on sets](https://vkvideo.ru/video-220652761_456240114)<br>[Practice](https://new.contest.yandex.ru/contests/89519) \| [Editorial](https://vkvideo.ru/video-220652761_456240115) | — | — | — | — |
+| ⬜ | 0.2.3 | [2.3 Problems on dictionaries](https://vkvideo.ru/video-220652761_456240121)<br>[Practice](https://new.contest.yandex.ru/contests/89520) \| [Editorial](https://vkvideo.ru/video-220652761_456240117) | — | — | — | — |
+| ⬜ | 0.2.4 | [2.4 Counting occurrences](https://vkvideo.ru/video-220652761_456240118)<br>[Practice](https://new.contest.yandex.ru/contests/89521) \| [Editorial](https://vkvideo.ru/video-220652761_456240119) | — | — | — | — |
 
 **Contests**
 
-**0.2.4** ⬜
+**0.2.5** ⬜
 
 **Contest 4:** Yandex Contest
 
@@ -96,7 +97,7 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Task 1 | — | — | — |
 | Task 2 | — | — | — |
 
-**0.2.5** ⬜
+**0.2.6** ⬜
 
 **Contest 5:** Yandex Contest
 
@@ -204,6 +205,6 @@ The project includes IntelliJ IDEA configuration files (`.iml`, `.idea/`). Open 
 Since each task is a standalone algorithm problem, you can also run without IDE:
 
 ```bash
-javac src/block1/task1/Main.java
-java -cp src block1.task1.Main
+javac src/block1/contest1/task1/Main.java
+java -cp src block1.contest1.task1.Main
 ```

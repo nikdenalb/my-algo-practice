@@ -18,6 +18,10 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [0.2.2] - 2026-03-25
+
+---
+
 ## [0.2.1] - 2026-03-24
 
 ### Changed

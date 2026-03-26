@@ -18,6 +18,13 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [0.2.3] - 2026-03-26
+
+### Changed
+- .gitignore: group local task files under a dedicated `Local task I/O` section (`/input.txt`, `/output.txt`).
+
+---
+
 ## [0.2.2] - 2026-03-25
 
 ---

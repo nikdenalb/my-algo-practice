@@ -18,6 +18,13 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [0.2.4] - 2026-03-27
+
+### Fixed
+- README: corrected missed status checkmark for `0.2.3` (`⬜` -> `✅`).
+
+---
+
 ## [0.2.3] - 2026-03-26
 
 ### Changed

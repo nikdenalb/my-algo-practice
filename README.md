@@ -10,10 +10,10 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | [Contest 2](https://new.contest.yandex.ru/contests/89534) | +<br>[00:10](src/block1/contest2/task1/Main.java) | +<br>[00:25](src/block1/contest2/task2/Main.java) | 2 (35) |
 | [Contest 4](https://new.contest.yandex.ru/contests/89536) | +<br>[00:16](src/block2/contest4/task1/Main.java) | +<br>[00:35](src/block2/contest4/task2/Main.java) | 2 (52) |
 | [Contest 1](https://new.contest.yandex.ru/contests/89533) | +<br>[00:12](src/block1/contest1/task1/Main.java) | +<br>[00:44](src/block1/contest1/task2/Main.java) | 2 (57) |
+| [Contest 5](https://new.contest.yandex.ru/contests/89537) | +<br>[00:08](src/block2/contest5/task1/Main.java) | -<br>[failed](src/block2/contest5/task2/Main.java) | 1 (8) |
 | [Contest 3](https://new.contest.yandex.ru/contests/89535) | +<br>[00:10](src/block1/contest3/task1/Main.java) | -<br>[failed](src/block1/contest3/task2/Main.java) | 1 (10) |
-| Contest 5 | — | — | — |
 | Contest 6 | — | — | — |
-| Result | — | — | 7 (154) |
+| Result | — | — | 8 (162) |
 | Contest 7 | — | — | — |
 | Contest 8 | — | — | — |
 | Contest 9 | — | — | — |
@@ -97,14 +97,14 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Task 1 | [Desktop basketball](https://new.contest.yandex.ru/contests/89536/problems?id=30404%2F2026_03_01%2FsI2vS9YmUm) | [Main.java](src/block2/contest4/task1/Main.java) | [MainRefined.java](src/block2/contest4/task1/MainRefined.java) |
 | Task 2 | [Paired k-prefixes](https://new.contest.yandex.ru/contests/89536/problems?id=30404%2F2026_03_01%2Fxu67mpn1rH) | [Main.java](src/block2/contest4/task2/Main.java) | [MainRefined.java](src/block2/contest4/task2/MainRefined.java) |
 
-**0.2.6** ⬜
+**0.2.6** ✅
 
-**Contest 5:** Yandex Contest
+**Contest 5:** [Yandex Contest](https://new.contest.yandex.ru/contests/89537)
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
-| Task 1 | — | — | — |
-| Task 2 | — | — | — |
+| Task 1 | [Rover search](https://new.contest.yandex.ru/contests/89537/problems?id=30404%2F2026_03_01%2F3aTS4WcGaP) | [Main.java](src/block2/contest5/task1/Main.java) | [MainRefined.java](src/block2/contest5/task1/MainRefined.java) |
+| Task 2 | [Non-overlapping substrings](https://new.contest.yandex.ru/contests/89537/problems?id=30404%2F2026_03_01%2FQa3Z4KPTDR) | [Main.java](src/block2/contest5/task2/Main.java) | [MainRefined.java](src/block2/contest5/task2/MainRefined.java) |
 
 **0.3.0** ⬜
 

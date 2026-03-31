@@ -18,6 +18,15 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [0.3.1] - 2026-03-31
+
+### Fixed
+- README: reverted accidental propagation of Contest 6 Task 2 links into placeholder rows for Contests 7-12.
+- README: aligned Block 3/4 theory roadmap with the updated training program (Block 3 has 2 theory topics; Block 4 has 5) and shifted contest version labels accordingly.
+- README: added Editorial VK Video link for Block 2 contests section.
+
+---
+
 ## [0.3.0] - 2026-03-30
 
 ## [0.2.6] - 2026-03-29

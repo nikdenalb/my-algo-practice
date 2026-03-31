@@ -88,6 +88,8 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 **Contests**
 
+**Editorial:** [VK Video](https://vkvideo.ru/video-220652761_456240096?sh=4&list=8e70a4abc73530f61e)
+
 **0.2.5** ✅
 
 **Contest 4:** [Yandex Contest](https://new.contest.yandex.ru/contests/89536)
@@ -119,40 +121,39 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 **Theory**
 
-| Status | # | Topic | 1st task | 2nd task | 3rd task | 4th task |
-|--------|---|-------|----------|----------|----------|----------|
-| ⬜ | 0.3.1 | 3.1 Prefix sums<br>Practice \| Editorial | — | — | — | — |
-| ⬜ | 0.3.2 | 3.2 Two pointers<br>Practice \| Editorial | — | — | — | — |
-| ⬜ | 0.3.3 | 3.3 Sliding window<br>Practice \| Editorial | — | — | — | — |
+| Status | # | Topic | 1st task | 2nd task | 3rd task | 4th task | 5th task |
+|--------|---|-------|----------|----------|----------|----------|----------|
+| ✅ | 0.3.1 | [3.1 Prefix sums](https://vkvideo.ru/video-220652761_456240132)<br>[Practice](https://new.contest.yandex.ru/contests/89523) \| [Editorial](https://vkvideo.ru/video-220652761_456240124) | **A:** [Prefix sums](https://new.contest.yandex.ru/contests/89523/problems?id=30404%2F2023_02_12%2FFjysFo4AwB)<br>[solution](src/block3/taska/Main.java) | **B:** [Range sum without updates](https://new.contest.yandex.ru/contests/89523/problems?id=928%2F2026_02_18%2F6ruPHNt9QT)<br>[solution](src/block3/taskb/Main.java) | **C:** [Maximal Sum](https://new.contest.yandex.ru/contests/89523/problems?id=7%2F2020_11_06%2FoQhYgpLhih)<br>[solution](src/block3/taskc/Main.java) | **D:** [Sum of numbers](https://new.contest.yandex.ru/contests/89523/problems?id=30404%2F2019_04_20%2FX5XQ74CADd)<br>[solution](src/block3/taskd/Main.java) | **E:** [Sum of triple products](https://new.contest.yandex.ru/contests/89523/problems?id=30404%2F2024_10_27%2F2rqPnG0bip)<br>[solution](src/block3/taske/Main.java) |
+| ⬜ | 0.3.2 | 3.2 Two pointers<br>Practice \| Editorial | — | — | — | — | — |
 
 **Contests**
 
-**0.3.4** ⬜
+**0.3.3** ⬜
 
 **Contest 7:** Yandex Contest
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
 | Task 1 | — | — | — |
-| Task 2 | [Not in your own plate](https://new.contest.yandex.ru/contests/89538/problems?id=30404%2F2026_03_01%2F9c8kDjsgHV) | [Main.java](src/block2/contest6/task2/Main.java) | [MainRefined.java](src/block2/contest6/task2/MainRefined.java) |
+| Task 2 | — | — | — |
 
-**0.3.5** ⬜
+**0.3.4** ⬜
 
 **Contest 8:** Yandex Contest
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
 | Task 1 | — | — | — |
-| Task 2 | [Not in your own plate](https://new.contest.yandex.ru/contests/89538/problems?id=30404%2F2026_03_01%2F9c8kDjsgHV) | [Main.java](src/block2/contest6/task2/Main.java) | [MainRefined.java](src/block2/contest6/task2/MainRefined.java) |
+| Task 2 | — | — | — |
 
-**0.4.0** ⬜
+**0.3.5** ⬜
 
 **Contest 9:** Yandex Contest
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
 | Task 1 | — | — | — |
-| Task 2 | [Not in your own plate](https://new.contest.yandex.ru/contests/89538/problems?id=30404%2F2026_03_01%2F9c8kDjsgHV) | [Main.java](src/block2/contest6/task2/Main.java) | [MainRefined.java](src/block2/contest6/task2/MainRefined.java) |
+| Task 2 | — | — | — |
 
 ### Block 4: Stacks, queues, deques
 
@@ -160,29 +161,31 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 | Status | # | Topic | 1st task | 2nd task | 3rd task | 4th task |
 |--------|---|-------|----------|----------|----------|----------|
-| ⬜ | 0.4.1 | 4.1 Stacks<br>Practice \| Editorial | — | — | — | — |
-| ⬜ | 0.4.2 | 4.2 Queues and deques<br>Practice \| Editorial | — | — | — | — |
-| ⬜ | 0.4.3 | 4.3 Expression evaluation<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.4.1 | 4.1 Stack and function call mechanism<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.4.2 | 4.2 Balanced parentheses<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.4.3 | 4.3 Postfix notation<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.4.4 | 4.4 Record stack<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.4.5 | 4.5 Queue and deque<br>Practice \| Editorial | — | — | — | — |
 
 **Contests**
 
-**0.4.4** ⬜
+**0.4.6** ⬜
 
 **Contest 10:** Yandex Contest
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
 | Task 1 | — | — | — |
-| Task 2 | [Not in your own plate](https://new.contest.yandex.ru/contests/89538/problems?id=30404%2F2026_03_01%2F9c8kDjsgHV) | [Main.java](src/block2/contest6/task2/Main.java) | [MainRefined.java](src/block2/contest6/task2/MainRefined.java) |
+| Task 2 | — | — | — |
 
-**0.4.5** ⬜
+**0.4.7** ⬜
 
 **Contest 11:** Yandex Contest
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
 | Task 1 | — | — | — |
-| Task 2 | [Not in your own plate](https://new.contest.yandex.ru/contests/89538/problems?id=30404%2F2026_03_01%2F9c8kDjsgHV) | [Main.java](src/block2/contest6/task2/Main.java) | [MainRefined.java](src/block2/contest6/task2/MainRefined.java) |
+| Task 2 | — | — | — |
 
 **1.0.0** ⬜
 
@@ -191,7 +194,7 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
 | Task 1 | — | — | — |
-| Task 2 | [Not in your own plate](https://new.contest.yandex.ru/contests/89538/problems?id=30404%2F2026_03_01%2F9c8kDjsgHV) | [Main.java](src/block2/contest6/task2/Main.java) | [MainRefined.java](src/block2/contest6/task2/MainRefined.java) |
+| Task 2 | — | — | — |
 
 ## Technologies
 

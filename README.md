@@ -6,16 +6,16 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 | № | Task 1 | Task 2 | Penalty |
 |---|--------|--------|---------|
-| Next goal | solve | solve | 2 (∞) |
+| Next goal | ≤ 28:00 | ≤ 59:00 | 2 (≤ 87) |
 | [Contest 2](https://new.contest.yandex.ru/contests/89534) | +<br>[00:10](src/block1/contest2/task1/Main.java) | +<br>[00:25](src/block1/contest2/task2/Main.java) | 2 (35) |
 | [Contest 4](https://new.contest.yandex.ru/contests/89536) | +<br>[00:16](src/block2/contest4/task1/Main.java) | +<br>[00:35](src/block2/contest4/task2/Main.java) | 2 (52) |
 | [Contest 1](https://new.contest.yandex.ru/contests/89533) | +<br>[00:12](src/block1/contest1/task1/Main.java) | +<br>[00:44](src/block1/contest1/task2/Main.java) | 2 (57) |
+| [Contest 8](https://new.contest.yandex.ru/contests/89540) | +<br>[00:10](src/block3/contest8/task1/Main.java) | +<br>[00:48](src/block3/contest8/task2/Main.java) | 2 (59) |
 | [Contest 7](https://new.contest.yandex.ru/contests/89539) | +<br>[00:46](src/block3/contest7/task1/Main.java) | +<br>[00:27](src/block3/contest7/task2/Main.java) | 2 (73) |
 | [Contest 6](https://new.contest.yandex.ru/contests/89538) | +<br>[00:32](src/block2/contest6/task1/Main.java) | +<br>[00:56](src/block2/contest6/task2/Main.java) | 2 (88) |
+| Result | — | — | 12 (364) |
 | [Contest 5](https://new.contest.yandex.ru/contests/89537) | +<br>[00:08](src/block2/contest5/task1/Main.java) | -<br>[failed](src/block2/contest5/task2/Main.java) | 1 (8) |
-| Result | — | — | 11 (313) |
 | [Contest 3](https://new.contest.yandex.ru/contests/89535) | +<br>[00:10](src/block1/contest3/task1/Main.java) | -<br>[failed](src/block1/contest3/task2/Main.java) | 1 (10) |
-| Contest 8 | — | — | — |
 | Contest 9 | — | — | — |
 | Contest 10 | — | — | — |
 | Contest 11 | — | — | — |
@@ -137,14 +137,14 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Task 1 | [Dance school](https://new.contest.yandex.ru/contests/89539/problems?id=30404%2F2025_06_18%2F36Q7seV1id) | [Main.java](src/block3/contest7/task1/Main.java) | [MainRefined.java](src/block3/contest7/task1/MainRefined.java) |
 | Task 2 | [Candy subsegment](https://new.contest.yandex.ru/contests/89539/problems?id=30404%2F2026_03_01%2FQbex9H1n9L) | [Main.java](src/block3/contest7/task2/Main.java) | [MainRefined.java](src/block3/contest7/task2/MainRefined.java) |
 
-**0.3.4** ⬜
+**0.3.4** ✅
 
-**Contest 8:** Yandex Contest
+**Contest 8:** [Yandex Contest](https://new.contest.yandex.ru/contests/89540)
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
-| Task 1 | — | — | — |
-| Task 2 | — | — | — |
+| Task 1 | [Cell painting](https://new.contest.yandex.ru/contests/89540/problems?id=30404%2F2026_03_01%2FZSSos64DZz) | [Main.java](src/block3/contest8/task1/Main.java) | [MainRefined.java](src/block3/contest8/task1/MainRefined.java) |
+| Task 2 | [Cafeteria queue](https://new.contest.yandex.ru/contests/89540/problems?id=30404%2F2026_02_21%2F1KdDEqxsEa) | [Main.java](src/block3/contest8/task2/Main.java) | [MainRefined.java](src/block3/contest8/task2/MainRefined.java) |
 
 **0.3.5** ⬜
 
@@ -187,7 +187,7 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Task 1 | — | — | — |
 | Task 2 | — | — | — |
 
-**1.0.0** ⬜
+**0.5.0** ⬜
 
 **Contest 12:** Yandex Contest
 
@@ -195,6 +195,10 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 |---|-----------|---------------|------------------|
 | Task 1 | — | — | — |
 | Task 2 | — | — | — |
+
+**1.0.0** ⬜
+
+**Finishing pass:** polish documentation and presentation, align README with final state, tighten changelog and version hygiene, optional repo cosmetics — final step for the first repository version (v1.0).
 
 ## Technologies
 

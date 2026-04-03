@@ -18,6 +18,13 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [0.3.4] - 2026-04-03
+
+### Changed
+- README: roadmap tail — Contest 12 mapped to **0.5.0**; **1.0.0** is the **Finishing pass** milestone (documentation, changelog, and presentation polish for the first repository version); dropped the extra closing row that duplicated **1.0.0**.
+
+---
+
 ## [0.3.3] - 2026-04-02
 
 ## [0.3.2] - 2026-04-01

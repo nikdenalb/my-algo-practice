@@ -16,7 +16,7 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Result | — | — | 12 (364) |
 | [Contest 5](https://new.contest.yandex.ru/contests/89537) | +<br>[00:08](src/block2/contest5/task1/Main.java) | -<br>[failed](src/block2/contest5/task2/Main.java) | 1 (8) |
 | [Contest 3](https://new.contest.yandex.ru/contests/89535) | +<br>[00:10](src/block1/contest3/task1/Main.java) | -<br>[failed](src/block1/contest3/task2/Main.java) | 1 (10) |
-| Contest 9 | — | — | — |
+| [Contest 9](https://new.contest.yandex.ru/contests/89541) | +<br>[00:31](src/block3/contest9/task1/Main.java) | -<br>[failed](src/block3/contest9/task2/Main.java) | 1 (31) |
 | Contest 10 | — | — | — |
 | Contest 11 | — | — | — |
 | Contest 12 | — | — | — |
@@ -146,14 +146,14 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Task 1 | [Cell painting](https://new.contest.yandex.ru/contests/89540/problems?id=30404%2F2026_03_01%2FZSSos64DZz) | [Main.java](src/block3/contest8/task1/Main.java) | [MainRefined.java](src/block3/contest8/task1/MainRefined.java) |
 | Task 2 | [Cafeteria queue](https://new.contest.yandex.ru/contests/89540/problems?id=30404%2F2026_02_21%2F1KdDEqxsEa) | [Main.java](src/block3/contest8/task2/Main.java) | [MainRefined.java](src/block3/contest8/task2/MainRefined.java) |
 
-**0.3.5** ⬜
+**0.3.5** ✅
 
-**Contest 9:** Yandex Contest
+**Contest 9:** [Yandex Contest](https://new.contest.yandex.ru/contests/89541)
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
-| Task 1 | — | — | — |
-| Task 2 | — | — | — |
+| Task 1 | [Final grade](https://new.contest.yandex.ru/contests/89541/problems?id=30404%2F2026_03_01%2F4wKqIj2wx0) | [Main.java](src/block3/contest9/task1/Main.java) | [MainRefined.java](src/block3/contest9/task1/MainRefined.java) |
+| Task 2 | [Vasya's unlucky number](https://new.contest.yandex.ru/contests/89541/problems?id=30404%2F2025_04_26%2Fp1ZF4rAZuN) | [Main.java](src/block3/contest9/task2/Main.java) | [MainRefined.java](src/block3/contest9/task2/MainRefined.java) |
 
 ### Block 4: Stacks, queues, deques
 

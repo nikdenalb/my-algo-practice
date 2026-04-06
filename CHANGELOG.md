@@ -18,7 +18,20 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [0.4.1] - 2026-04-06
+
+### Changed
+- README: renamed roadmap milestone **0.3.5** to **0.4.0** for Contest 9.
+- README: replanned Block 4 milestone numbering while keeping section positions fixed: `4.2 theory -> Contest 10 -> 4.3 theory -> Contest 11 -> 4.4 theory -> Contest 12 -> 4.5 theory` (now `0.4.2 -> 0.4.3 -> 0.4.4 -> 0.4.5 -> 0.4.6 -> 0.4.7 -> 0.4.8`).
+
+---
+
 ## [0.3.5] - 2026-04-05
+
+### Changed
+- This milestone was renamed to **0.4.0** in version **0.4.1**.
+
+---
 
 ## [0.3.4] - 2026-04-03
 

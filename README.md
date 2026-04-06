@@ -146,7 +146,7 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Task 1 | [Cell painting](https://new.contest.yandex.ru/contests/89540/problems?id=30404%2F2026_03_01%2FZSSos64DZz) | [Main.java](src/block3/contest8/task1/Main.java) | [MainRefined.java](src/block3/contest8/task1/MainRefined.java) |
 | Task 2 | [Cafeteria queue](https://new.contest.yandex.ru/contests/89540/problems?id=30404%2F2026_02_21%2F1KdDEqxsEa) | [Main.java](src/block3/contest8/task2/Main.java) | [MainRefined.java](src/block3/contest8/task2/MainRefined.java) |
 
-**0.3.5** ✅
+**0.4.0** ✅
 
 **Contest 9:** [Yandex Contest](https://new.contest.yandex.ru/contests/89541)
 
@@ -161,15 +161,15 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 | Status | # | Topic | 1st task | 2nd task | 3rd task | 4th task |
 |--------|---|-------|----------|----------|----------|----------|
-| ⬜ | 0.4.1 | 4.1 Stack and function call mechanism<br>Practice \| Editorial | — | — | — | — |
+| ✅ | 0.4.1 | [4.1 Stack and function call mechanism](https://vkvideo.ru/video-220652761_456240133)<br>[Practice](https://new.contest.yandex.ru/contests/89528) \| [Editorial](https://vkvideo.ru/video-220652761_456240141) | **A:** [Stack with error protection](https://new.contest.yandex.ru/contests/89528/problems?id=175943%2F2016_11_22%2FF1DnicRrIx)<br>[solution](src/block4/taska/Main.java) | **B:** [Wagon sorting lite](https://new.contest.yandex.ru/contests/89528/problems?id=30404%2F2021_12_13%2F2EeqSEdSfr)<br>[solution](src/block4/taskb/Main.java) | — | — |
 | ⬜ | 0.4.2 | 4.2 Balanced parentheses<br>Practice \| Editorial | — | — | — | — |
-| ⬜ | 0.4.3 | 4.3 Postfix notation<br>Practice \| Editorial | — | — | — | — |
-| ⬜ | 0.4.4 | 4.4 Record stack<br>Practice \| Editorial | — | — | — | — |
-| ⬜ | 0.4.5 | 4.5 Queue and deque<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.4.4 | 4.3 Postfix notation<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.4.6 | 4.4 Record stack<br>Practice \| Editorial | — | — | — | — |
+| ⬜ | 0.4.8 | 4.5 Queue and deque<br>Practice \| Editorial | — | — | — | — |
 
 **Contests**
 
-**0.4.6** ⬜
+**0.4.3** ⬜
 
 **Contest 10:** Yandex Contest
 
@@ -178,7 +178,7 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Task 1 | — | — | — |
 | Task 2 | — | — | — |
 
-**0.4.7** ⬜
+**0.4.5** ⬜
 
 **Contest 11:** Yandex Contest
 
@@ -187,7 +187,7 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Task 1 | — | — | — |
 | Task 2 | — | — | — |
 
-**0.5.0** ⬜
+**0.4.7** ⬜
 
 **Contest 12:** Yandex Contest
 

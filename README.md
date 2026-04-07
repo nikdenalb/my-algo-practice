@@ -159,13 +159,13 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 **Theory**
 
-| Status | # | Topic | 1st task | 2nd task | 3rd task | 4th task |
-|--------|---|-------|----------|----------|----------|----------|
-| ✅ | 0.4.1 | [4.1 Stack and function call mechanism](https://vkvideo.ru/video-220652761_456240133)<br>[Practice](https://new.contest.yandex.ru/contests/89528) \| [Editorial](https://vkvideo.ru/video-220652761_456240141) | **A:** [Stack with error protection](https://new.contest.yandex.ru/contests/89528/problems?id=175943%2F2016_11_22%2FF1DnicRrIx)<br>[solution](src/block4/taska/Main.java) | **B:** [Wagon sorting lite](https://new.contest.yandex.ru/contests/89528/problems?id=30404%2F2021_12_13%2F2EeqSEdSfr)<br>[solution](src/block4/taskb/Main.java) | — | — |
-| ⬜ | 0.4.2 | 4.2 Balanced parentheses<br>Practice \| Editorial | — | — | — | — |
-| ⬜ | 0.4.4 | 4.3 Postfix notation<br>Practice \| Editorial | — | — | — | — |
-| ⬜ | 0.4.6 | 4.4 Record stack<br>Practice \| Editorial | — | — | — | — |
-| ⬜ | 0.4.8 | 4.5 Queue and deque<br>Practice \| Editorial | — | — | — | — |
+| Status | # | Topic | 1st task | 2nd task |
+|--------|---|-------|----------|----------|
+| ✅ | 0.4.1 | [4.1 Stack and function call mechanism](https://vkvideo.ru/video-220652761_456240133)<br>[Practice](https://new.contest.yandex.ru/contests/89528) \| [Editorial](https://vkvideo.ru/video-220652761_456240141) | **A:** [Stack with error protection](https://new.contest.yandex.ru/contests/89528/problems?id=175943%2F2016_11_22%2FF1DnicRrIx)<br>[solution](src/block4/taska/Main.java) | **B:** [Wagon sorting lite](https://new.contest.yandex.ru/contests/89528/problems?id=30404%2F2021_12_13%2F2EeqSEdSfr)<br>[solution](src/block4/taskb/Main.java) |
+| ✅ | 0.4.2 | [4.2 Balanced parentheses](https://vkvideo.ru/video-220652761_456240135)<br>[Practice](https://new.contest.yandex.ru/contests/89529) \| [Editorial](https://vkvideo.ru/video-220652761_456240146) | **C:** [Valid bracket sequence](https://new.contest.yandex.ru/contests/89529/problems?id=175943%2F2016_11_22%2FeSUHFTjBwZ)<br>[solution](src/block4/taskc/Main.java) | **D:** [Minimum valid bracket sequence](https://new.contest.yandex.ru/contests/89529/problems?id=30404%2F2024_11_02%2FmyVIGk5VNm)<br>[solution](src/block4/taskd/Main.java) |
+| ⬜ | 0.4.4 | 4.3 Postfix notation<br>Practice \| Editorial | — | — |
+| ⬜ | 0.4.6 | 4.4 Record stack<br>Practice \| Editorial | — | — |
+| ⬜ | 0.4.8 | 4.5 Queue and deque<br>Practice \| Editorial | — | — |
 
 **Contests**
 

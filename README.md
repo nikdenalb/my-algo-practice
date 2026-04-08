@@ -14,10 +14,10 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | [Contest 7](https://new.contest.yandex.ru/contests/89539) | +<br>[00:46](src/block3/contest7/task1/Main.java) | +<br>[00:27](src/block3/contest7/task2/Main.java) | 2 (73) |
 | [Contest 6](https://new.contest.yandex.ru/contests/89538) | +<br>[00:32](src/block2/contest6/task1/Main.java) | +<br>[00:56](src/block2/contest6/task2/Main.java) | 2 (88) |
 | Result | — | — | 12 (364) |
+| [Contest 10](https://new.contest.yandex.ru/contests/89542) | +<br>[00:33](src/block4/contest10/task1/Main.java) | +<br>[00:59](src/block4/contest10/task2/Main.java) | 2 (93) |
 | [Contest 5](https://new.contest.yandex.ru/contests/89537) | +<br>[00:08](src/block2/contest5/task1/Main.java) | -<br>[failed](src/block2/contest5/task2/Main.java) | 1 (8) |
 | [Contest 3](https://new.contest.yandex.ru/contests/89535) | +<br>[00:10](src/block1/contest3/task1/Main.java) | -<br>[failed](src/block1/contest3/task2/Main.java) | 1 (10) |
 | [Contest 9](https://new.contest.yandex.ru/contests/89541) | +<br>[00:31](src/block3/contest9/task1/Main.java) | -<br>[failed](src/block3/contest9/task2/Main.java) | 1 (31) |
-| Contest 10 | — | — | — |
 | Contest 11 | — | — | — |
 | Contest 12 | — | — | — |
 
@@ -169,14 +169,14 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 
 **Contests**
 
-**0.4.3** ⬜
+**0.4.3** ✅
 
-**Contest 10:** Yandex Contest
+**Contest 10:** [Yandex Contest](https://new.contest.yandex.ru/contests/89542)
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
-| Task 1 | — | — | — |
-| Task 2 | — | — | — |
+| Task 1 | [Counting squares](https://new.contest.yandex.ru/contests/89542/problems?id=30404%2F2026_03_01%2F4ZbscdEIOI) | [Main.java](src/block4/contest10/task1/Main.java) | [MainRefined.java](src/block4/contest10/task1/MainRefined.java) |
+| Task 2 | [Telemetry](https://new.contest.yandex.ru/contests/89542/problems?id=30404%2F2026_03_01%2FiIkWLqxwqb) | [Main.java](src/block4/contest10/task2/Main.java) | [MainRefined.java](src/block4/contest10/task2/MainRefined.java) |
 
 **0.4.5** ⬜
 

@@ -18,6 +18,14 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [0.4.5] - 2026-04-10
+
+### Added
+- Alternate solve `MainAfterparty.java` for Contest 11 Task 2 (practice tests).
+- IntelliJ project spelling dictionary entries (e.g. Afterparty, vsbl, wnds) in `.idea/dictionaries/project.xml`.
+
+---
+
 ## [0.4.4] - 2026-04-09
 
 ## [0.4.3] - 2026-04-08

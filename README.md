@@ -18,8 +18,8 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | [Contest 5](https://new.contest.yandex.ru/contests/89537) | +<br>[00:08](src/block2/contest5/task1/Main.java) | -<br>[failed](src/block2/contest5/task2/Main.java) | 1 (8) |
 | [Contest 3](https://new.contest.yandex.ru/contests/89535) | +<br>[00:10](src/block1/contest3/task1/Main.java) | -<br>[failed](src/block1/contest3/task2/Main.java) | 1 (10) |
 | [Contest 11](https://new.contest.yandex.ru/contests/89543) | +<br>[00:20](src/block4/contest11/task1/Main.java) | -<br>[failed](src/block4/contest11/task2/Main.java) | 1 (20) |
+| [Contest 12](https://new.contest.yandex.ru/contests/89544) | +<br>[00:24](src/block4/contest12/task1/Main.java) | -<br>[failed](src/block4/contest12/task2/Main.java) | 1 (24) |
 | [Contest 9](https://new.contest.yandex.ru/contests/89541) | +<br>[00:31](src/block3/contest9/task1/Main.java) | -<br>[failed](src/block3/contest9/task2/Main.java) | 1 (31) |
-| Contest 12 | — | — | — |
 
 ### Warmup
 
@@ -187,14 +187,14 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | Task 1 | [Bracket cyclic shift](https://new.contest.yandex.ru/contests/89543/problems?id=30404%2F2026_03_01%2FaWLgjLfK6L) | [Main.java](src/block4/contest11/task1/Main.java) | [MainRefined.java](src/block4/contest11/task1/MainRefined.java) |
 | Task 2 | [Practice tests](https://new.contest.yandex.ru/contests/89543/problems?id=30404%2F2026_03_01%2Fsmt8Z50leS) | [Main.java](src/block4/contest11/task2/Main.java) | [MainRefined.java](src/block4/contest11/task2/MainRefined.java) |
 
-**0.4.7** ⬜
+**0.4.7** ✅
 
-**Contest 12:** Yandex Contest
+**Contest 12:** [Yandex Contest](https://new.contest.yandex.ru/contests/89544)
 
 | # | Task link | Live solution | Refined solution |
 |---|-----------|---------------|------------------|
-| Task 1 | — | — | — |
-| Task 2 | — | — | — |
+| Task 1 | [Balls](https://new.contest.yandex.ru/contests/89544/problems?id=23867%2F2026_03_01%2FYSwACHCPFO) | [Main.java](src/block4/contest12/task1/Main.java) | [MainRefined.java](src/block4/contest12/task1/MainRefined.java) |
+| Task 2 | [Ship placement](https://new.contest.yandex.ru/contests/89544/problems?id=30404%2F2026_03_01%2F9vXvmMMKCU) | [Main.java](src/block4/contest12/task2/Main.java) | [MainRefined.java](src/block4/contest12/task2/MainRefined.java) |
 
 **1.0.0** ⬜
 

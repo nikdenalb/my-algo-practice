@@ -2,6 +2,10 @@
 
 My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/training/algorithm-training) «Тренировки: от алгоритмов к стажировке».
 
+**Training:** the training track is **complete** (all scheduled rounds finished).
+
+**Final repository version (v1.0.0) deadline:** **May 16, 2026**.
+
 ## Progress
 
 | № | Task 1 | Task 2 | Penalty |
@@ -165,7 +169,7 @@ My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/trai
 | ✅ | 0.4.2 | [4.2 Balanced parentheses](https://vkvideo.ru/video-220652761_456240135)<br>[Practice](https://new.contest.yandex.ru/contests/89529) \| [Editorial](https://vkvideo.ru/video-220652761_456240146) | **C:** [Valid bracket sequence](https://new.contest.yandex.ru/contests/89529/problems?id=175943%2F2016_11_22%2FeSUHFTjBwZ)<br>[solution](src/block4/taskc/Main.java) | **D:** [Minimum valid bracket sequence](https://new.contest.yandex.ru/contests/89529/problems?id=30404%2F2024_11_02%2FmyVIGk5VNm)<br>[solution](src/block4/taskd/Main.java) |
 | ✅ | 0.4.4 | [4.3 Postfix notation (YouTube)](https://youtu.be/ZohRrd1Chfo)<br>[Practice](https://new.contest.yandex.ru/contests/89530) \| [Editorial](https://vkvideo.ru/video-220652761_456240143) | **E:** [Postfix notation](https://new.contest.yandex.ru/contests/89530/problems?id=30404%2F2023_01_18%2FqS3OsBniXH)<br>[solution](src/block4/taske/Main.java) | **F:** [Arithmetic expression value](https://new.contest.yandex.ru/contests/89530/problems?id=30404%2F2023_01_18%2FHgDt2DvsLq)<br>[solution](src/block4/taskf/Main.java) |
 | ✅ | 0.4.6 | [4.4 Record stack](https://vkvideo.ru/video-220652761_456240137)<br>[Practice](https://new.contest.yandex.ru/contests/89531) \| [Editorial](https://vkvideo.ru/video-220652761_456240144) | **G:** [Great Lineland migration](https://new.contest.yandex.ru/contests/89531/problems?id=30404%2F2023_01_18%2Fm3PAau25IW)<br>[solution](src/block4/taskg/Main.java) | **H:** [Histogram and rectangle](https://new.contest.yandex.ru/contests/89531/problems?id=30404%2F2023_01_18%2FEJ31cTOEJL)<br>[solution](src/block4/taskh/Main.java) |
-| ⬜ | 0.4.8 | 4.5 Queue and deque<br>Practice \| Editorial | — | — |
+| ✅ | 0.4.8 | [4.5 Queue and deque](https://vkvideo.ru/video-220652761_456240148)<br>[Practice](https://new.contest.yandex.ru/contests/89532) \| [Editorial](https://vkvideo.ru/video-220652761_456240145) | **I:** [Card game](https://new.contest.yandex.ru/contests/89532/problems?id=175943%2F2016_11_22%2FCd32DDMkPb)<br>[solution](src/block4/taski/Main.java) | **J:** [Minimum on a segment](https://new.contest.yandex.ru/contests/89532/problems?id=175943%2F2016_11_22%2FCu8aaoPcmm)<br>[solution](src/block4/taskj/Main.java) |
 
 **Contests**
 

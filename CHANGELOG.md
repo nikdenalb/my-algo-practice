@@ -18,6 +18,18 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [1.0.0] - 2026-05-16
+
+### Added
+- `certificates/` directory with PDF and PNG certificate files and `verification.md` for spreadsheet cross-checks.
+
+### Changed
+- README: final layout after training — **Results** table (no Next goal; **Final score** row), no roadmap checkmarks or `0.x.y` milestone labels.
+- README: **Warmup** and **Block 1–4** at `##`; **Theory** / **Contests** at `###`; Block 4 contest editorial (VK Video); Block 2 theory table without a fourth task column.
+- README: **Materials** before **About this repository** (technologies and how to run).
+
+---
+
 ## [0.4.8] - 2026-04-13
 
 ## [0.4.7] - 2026-04-12

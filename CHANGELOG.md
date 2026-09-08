@@ -18,6 +18,15 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [1.0.1] - 2026-09-08
+
+### Changed
+- Training 9.0 sources and README moved under `src/training9/`.
+- Root README is now Training 10.0, with a link to Training 9.0.
+- IntelliJ module source roots split into `src/training9` and `src/training10`.
+
+---
+
 ## [1.0.0] - 2026-05-16
 
 ### Added
@@ -133,7 +142,7 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 - README: Bonus column for Contest 3 with [YouTube](https://youtu.be/RoU_Du18Uh8) for Task 2.
 
 ### Changed
-- [MainRefined.java](src/block1/contest3/task2/MainRefined.java): simplified `checkDivs`, inlined `checkRows` logic.
+- Contest 3 Task 2 MainRefined: simplified `checkDivs`, inlined `checkRows` logic.
 
 ---
 

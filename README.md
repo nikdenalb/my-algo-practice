@@ -4,16 +4,24 @@ My solutions for [Yandex Algorithm Training 10.0](https://yandex.ru/yaintern/tra
 
 **Previous training:** [Training 9.0](src/training9/README.md)
 
-## Progress
-
-I have only just started reshaping this project. I want the layout to differ a bit from Training 9.0, but I have not settled on how yet. I will decide as I go. For now I am already publishing two live solutions from the first non-warmup contest.
-
 ## Contest 1
 
 | # | Live solution |
 |---|---------------|
 | Task 1 | [Main.java](src/training10/contest1/task1/Main.java) |
 | Task 2 | [Main.java](src/training10/contest1/task2/Main.java) |
+
+## Roadmap
+
+| # | Milestone | Due |
+|---|-----------|-------|
+| **1.1** | Warmup | 14 Sep |
+| **1.2** | Contest 1 (Start) | 15 Sep |
+| **1.3** | Contest 2 (Block 1, stacks) | 16 Sep |
+| **1.4** | Contest 3 (Block 2, queues / deques / heaps) | 17 Sep |
+| **1.5** | Contest 4 (Block 3, sorting) | 18 Sep |
+| **1.6** | Training blocks 1–3 | 19 Sep |
+| **2.0** | Certificates | within a week after publication |
 
 ## About this repository
 

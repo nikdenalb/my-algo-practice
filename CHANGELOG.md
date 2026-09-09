@@ -18,6 +18,13 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [1.0.2] - 2026-09-09
+
+### Added
+- Root README: Training 10.0 unfinished-only VERSION roadmap.
+
+---
+
 ## [1.0.1] - 2026-09-08
 
 ### Changed

@@ -1,4 +1,4 @@
-package block3.taski;
+package training9.block3.taski;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

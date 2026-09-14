@@ -1,4 +1,4 @@
-package block2.contest4.task2;
+package training9.block2.contest4.task2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

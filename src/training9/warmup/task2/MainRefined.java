@@ -1,4 +1,4 @@
-package warmup.task2;
+package training9.warmup.task2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

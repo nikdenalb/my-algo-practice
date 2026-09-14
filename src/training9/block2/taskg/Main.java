@@ -1,4 +1,4 @@
-package block2.taskg;
+package training9.block2.taskg;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

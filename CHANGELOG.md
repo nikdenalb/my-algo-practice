@@ -18,6 +18,17 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [1.0.3] - 2026-09-14
+
+### Changed
+- README roadmap: warmup moved from 1.1 into 1.5 (former 1.6) so warmup solutions stay unpublished until 19 Sep.
+- Java packages prefixed with training9 / training10; IntelliJ source root is src.
+
+### Added
+- Raw solutions for Contest 2 and Contest 3.
+
+---
+
 ## [1.0.2] - 2026-09-09
 
 ### Added

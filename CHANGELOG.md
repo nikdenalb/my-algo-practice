@@ -18,6 +18,13 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [1.1.0] - 2026-09-15
+
+### Added
+- Contest 1 (Start).
+
+---
+
 ## [1.0.3] - 2026-09-14
 
 ### Changed

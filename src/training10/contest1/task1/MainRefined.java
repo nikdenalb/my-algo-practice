@@ -11,23 +11,17 @@ import java.io.OutputStreamWriter;
  * <a href="https://new.contest.yandex.ru/contests/97742/problems?id=30404%2F2026_08_02%2FIjpUFvQlN0">
  * Смена стиля (Yandex Contest)
  * </a>
- * <br><br>
- * Solve time 00:10. No submit errors.<br>
  */
-public class Main {
+public class MainRefined {
 
-    String solve(String s) {
+    StringBuilder solve(String s) {
         StringBuilder out = new StringBuilder();
         out.append(Character.toLowerCase(s.charAt(0)));
         for (int i = 1; i < s.length(); i++) {
             char c = s.charAt(i);
-            if (Character.isUpperCase(c)) {
-                out.append('_').append(Character.toLowerCase(c));
-            } else {
-                out.append(c);
-            }
+            out.append(Character.isUpperCase(c) ? "_" + Character.toLowerCase(c) : c);
         }
-        return out.toString();
+        return out;
     }
 
     public static void main(String[] args) throws IOException {
@@ -36,11 +30,13 @@ public class Main {
 
         int n = Integer.parseInt(reader.readLine());
 
+        StringBuilder out = new StringBuilder();
         for (int i = 0; i < n - 1; i++) {
-            writer.write(new Main().solve(reader.readLine()));
-            writer.newLine();
+            out.append(new MainRefined().solve(reader.readLine())).append(System.lineSeparator());
         }
-        writer.write(new Main().solve(reader.readLine()));
+        out.append(new MainRefined().solve(reader.readLine()));
+
+        writer.write(out.toString());
 
         reader.close();
         writer.close();

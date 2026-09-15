@@ -11,25 +11,20 @@ import java.io.OutputStreamWriter;
  * <a href="https://new.contest.yandex.ru/contests/97742/problems?id=30404%2F2026_08_02%2FrhgbJji1en">
  * Подстроки-поданаграммы (Yandex Contest)
  * </a>
- * <br><br>
- * Solve time 00:35 (00:45 − 00:10). No submit errors.<br>
- * <br>
- * Contest penalty 00:10 + 00:45 = 55.<br>
  */
-public class Main {
+public class MainRefined {
 
     long solve(String s, String t) {
-        int[] tLts = new int[26];
-        for (int i = 0; i < t.length(); i++) tLts[t.charAt(i) - 'a']++;
+        int[] target = new int[26];
+        for (int i = 0; i < t.length(); i++) target[t.charAt(i) - 'a']++;
 
-        int[] cur = new int[26];
+        int[] curr = new int[26];
         long cnt = 0;
-        int l = 0;
-        for (int r = 0; r < s.length(); r++) {
-            cur[s.charAt(r) - 'a']++;
+        for (int l = 0, r = 0; r < s.length(); r++) {
+            curr[s.charAt(r) - 'a']++;
 
-            while (cur[s.charAt(r) - 'a'] > tLts[s.charAt(r) - 'a']) {
-                cur[s.charAt(l++) - 'a']--;
+            while (curr[s.charAt(r) - 'a'] > target[s.charAt(r) - 'a']) {
+                curr[s.charAt(l++) - 'a']--;
             }
 
             cnt += r - l + 1;
@@ -44,7 +39,7 @@ public class Main {
 
         String s = reader.readLine();
         String t = reader.readLine();
-        writer.write(String.valueOf(new Main().solve(s, t)));
+        writer.write(String.valueOf(new MainRefined().solve(s, t)));
 
         reader.close();
         writer.close();

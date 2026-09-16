@@ -15,23 +15,33 @@ My solutions for [Yandex Algorithm Training 10.0](https://yandex.ru/yaintern/tra
 
 ## Contest 2
 
-| # | Live solution |
-|---|---------------|
-| Task 1 | [Main.java](src/training10/contest2/task1/Main.java) |
-| Task 2 | [Main.java](src/training10/contest2/task2/Main.java) |
+**Contest:** [Yandex Contest](https://new.contest.yandex.ru/contests/97117) · Penalty 2 (84)
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | [Запрещенная сумма](https://new.contest.yandex.ru/contests/97117/problems?id=30404%2F2026_08_02%2FCG0w5tl2xP) | [Main.java](src/training10/contest2/task1/Main.java) | [MainRefined.java](src/training10/contest2/task1/MainRefined.java) |
+| Task 2 | [XML-строка](https://new.contest.yandex.ru/contests/97117/problems?id=30404%2F2026_08_02%2FJfz1oqzhEZ) | [Main.java](src/training10/contest2/task2/Main.java) | [MainRefined.java](src/training10/contest2/task2/MainRefined.java) |
 
 ## Contest 3
 
+**Contest:** [Yandex Contest](https://new.contest.yandex.ru/contests/97118) · Penalty 2 (88)
+
+| # | Task link | Live solution |
+|---|-----------|---------------|
+| Task 1 | [Японский кроссворд](https://new.contest.yandex.ru/contests/97118/problems?id=30404%2F2026_08_02%2Fx3I9JKzRfW) | [Main.java](src/training10/contest3/task1/Main.java) |
+| Task 2 | [Плейлист](https://new.contest.yandex.ru/contests/97118/problems?id=30404%2F2026_08_02%2FROVIoIYOyM) | [Main.java](src/training10/contest3/task2/Main.java) |
+
+## Contest 4
+
 | # | Live solution |
 |---|---------------|
-| Task 1 | [Main.java](src/training10/contest3/task1/Main.java) |
-| Task 2 | [Main.java](src/training10/contest3/task2/Main.java) |
+| Task 1 | [Main.java](src/training10/contest4/task1/Main.java) |
+| Task 2 | [Main.java](src/training10/contest4/task2/Main.java) |
 
 ## Roadmap
 
 | # | Milestone | Due |
 |---|-----------|-------|
-| **1.2** | Contest 2 (Block 1, stacks) | 16 Sep |
 | **1.3** | Contest 3 (Block 2, queues / deques / heaps) | 17 Sep |
 | **1.4** | Contest 4 (Block 3, sorting) | 18 Sep |
 | **1.5** | Warmup; training blocks 1–3 | 19 Sep |

@@ -18,6 +18,14 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [1.2.0] - 2026-09-16
+
+### Added
+- Contest 2 (Block 1, stacks).
+- Raw solutions for Contest 4.
+
+---
+
 ## [1.1.0] - 2026-09-15
 
 ### Added

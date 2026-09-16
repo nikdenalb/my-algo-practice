@@ -10,6 +10,16 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Task:
+ * <a href="https://new.contest.yandex.ru/contests/97117/problems?id=30404%2F2026_08_02%2FJfz1oqzhEZ">
+ * XML-строка (Yandex Contest)
+ * </a>
+ * <br><br>
+ * Solve time 00:40 (00:52 − 00:12). No submit errors.<br>
+ * <br>
+ * Contest penalty 00:12 + 00:52 + 20 = 84.<br>
+ */
 public class Main {
 
     String solve(String s) {

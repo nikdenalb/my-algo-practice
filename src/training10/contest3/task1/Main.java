@@ -9,6 +9,14 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Task:
+ * <a href="https://new.contest.yandex.ru/contests/97118/problems?id=30404%2F2026_08_02%2Fx3I9JKzRfW">
+ * Японский кроссворд (Yandex Contest)
+ * </a>
+ * <br><br>
+ * Solve time 00:20. 1 failed submit.<br>
+ */
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));

@@ -11,6 +11,14 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
+/**
+ * Task:
+ * <a href="https://new.contest.yandex.ru/contests/97117/problems?id=30404%2F2026_08_02%2FCG0w5tl2xP">
+ * Запрещенная сумма (Yandex Contest)
+ * </a>
+ * <br><br>
+ * Solve time 00:12. 1 failed submit (Missed the case 2e == k).<br>
+ */
 public class Main {
 
     int solve(int n, int k, int[] a) {

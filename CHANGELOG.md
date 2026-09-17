@@ -18,6 +18,16 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [1.3.0] - 2026-09-17
+
+### Added
+- Contest 3 (Block 2, queues / deques / heaps).
+
+### Changed
+- Training 9.0 homepage and historical program link retargeted to the permanent March 2026 page.
+
+---
+
 ## [1.2.0] - 2026-09-16
 
 ### Added
@@ -163,7 +173,7 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ### Changed
 - Block 1: remove `practice` folder, move contents to `block1/` (packages `block1.practice.*` → `block1.*`).
-- README: Block 2 theory aligned with [Yandex program](https://yandex.ru/yaintern/training/algorithm-training#programs__custom) — 4 topics (2.1 How a set works, 2.2 Problems on sets, 2.3 Problems on dictionaries, 2.4 Counting occurrences), contests renumbered (0.2.5, 0.2.6).
+- README: Block 2 theory aligned with [Yandex program](https://yandex.ru/yaintern/training/algorithm-training_march_2026#programs__custom) — 4 topics (2.1 How a set works, 2.2 Problems on sets, 2.3 Problems on dictionaries, 2.4 Counting occurrences), contests renumbered (0.2.5, 0.2.6).
 - README: update all Block 1 solution links.
 
 ---

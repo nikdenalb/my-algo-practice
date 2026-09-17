@@ -15,7 +15,7 @@ import java.util.List;
  * Японский кроссворд (Yandex Contest)
  * </a>
  * <br><br>
- * Solve time 00:20. 1 failed submit.<br>
+ * Solve time 00:20. No submit errors.<br>
  */
 public class Main {
     public static void main(String[] args) throws IOException {

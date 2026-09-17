@@ -15,7 +15,7 @@ import java.util.Queue;
  * Плейлист (Yandex Contest)
  * </a>
  * <br><br>
- * Solve time 00:28 (00:48 − 00:20). No submit errors.<br>
+ * Solve time 00:28 (00:48 − 00:20). 1 failed submit (int overflow on time).<br>
  * <br>
  * Contest penalty 00:20 + 00:48 + 20 = 88.<br>
  */

@@ -26,10 +26,10 @@ My solutions for [Yandex Algorithm Training 10.0](https://yandex.ru/yaintern/tra
 
 **Contest:** [Yandex Contest](https://new.contest.yandex.ru/contests/97118) · Penalty 2 (88)
 
-| # | Task link | Live solution |
-|---|-----------|---------------|
-| Task 1 | [Японский кроссворд](https://new.contest.yandex.ru/contests/97118/problems?id=30404%2F2026_08_02%2Fx3I9JKzRfW) | [Main.java](src/training10/contest3/task1/Main.java) |
-| Task 2 | [Плейлист](https://new.contest.yandex.ru/contests/97118/problems?id=30404%2F2026_08_02%2FROVIoIYOyM) | [Main.java](src/training10/contest3/task2/Main.java) |
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | [Японский кроссворд](https://new.contest.yandex.ru/contests/97118/problems?id=30404%2F2026_08_02%2Fx3I9JKzRfW) | [Main.java](src/training10/contest3/task1/Main.java) | [MainRefined.java](src/training10/contest3/task1/MainRefined.java) |
+| Task 2 | [Плейлист](https://new.contest.yandex.ru/contests/97118/problems?id=30404%2F2026_08_02%2FROVIoIYOyM) | [Main.java](src/training10/contest3/task2/Main.java) | [MainRefined.java](src/training10/contest3/task2/MainRefined.java) |
 
 ## Contest 4
 
@@ -42,7 +42,6 @@ My solutions for [Yandex Algorithm Training 10.0](https://yandex.ru/yaintern/tra
 
 | # | Milestone | Due |
 |---|-----------|-------|
-| **1.3** | Contest 3 (Block 2, queues / deques / heaps) | 17 Sep |
 | **1.4** | Contest 4 (Block 3, sorting) | 18 Sep |
 | **1.5** | Warmup; training blocks 1–3 | 19 Sep |
 | **2.0** | Certificates | within a week after publication |

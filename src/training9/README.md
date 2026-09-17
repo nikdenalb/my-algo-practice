@@ -1,6 +1,6 @@
 # Yandex Algorithm Training 9.0
 
-My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/training/algorithm-training) «Тренировки: от алгоритмов к стажировке».
+My solutions for [Yandex Algorithm Training 9.0](https://yandex.ru/yaintern/training/algorithm-training_march_2026) «Тренировки: от алгоритмов к стажировке».
 
 **Certificate:** [Yandex Algorithm Training 9.0 (April 2026)](#certificate)
 

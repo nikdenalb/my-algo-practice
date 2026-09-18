@@ -18,6 +18,16 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [1.4.0] - 2026-09-18
+
+### Added
+- Contest 4 (Block 3, sorting).
+
+### Changed
+- Training 10.0 README subtitle switched to the current season slogan; Training 9.0 keeps the previous season slogan.
+
+---
+
 ## [1.3.0] - 2026-09-17
 
 ### Added

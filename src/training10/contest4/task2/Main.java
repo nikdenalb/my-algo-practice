@@ -7,6 +7,16 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Arrays;
 
+/**
+ * Task:
+ * <a href="https://new.contest.yandex.ru/contests/97119/problems?id=30404%2F2026_08_02%2FV4RBLfayiX">
+ * Изменение графика (Yandex Contest)
+ * </a>
+ * <br><br>
+ * Solve time 00:28 (00:39 − 00:11). No submit errors.<br>
+ * <br>
+ * Contest penalty 00:11 + 00:39 = 50.<br>
+ */
 public class Main {
 
     long solve(int[] arr1, int k) {

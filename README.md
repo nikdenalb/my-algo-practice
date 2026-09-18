@@ -1,6 +1,6 @@
 # Yandex Algorithm Training 10.0
 
-My solutions for [Yandex Algorithm Training 10.0](https://yandex.ru/yaintern/training/algorithm-training) «Тренировки: от алгоритмов к стажировке».
+My solutions for [Yandex Algorithm Training 10.0](https://yandex.ru/yaintern/training/algorithm-training) «Тренировки на 10 из 10».
 
 **Previous training:** [Training 9.0](src/training9/README.md)
 
@@ -33,16 +33,17 @@ My solutions for [Yandex Algorithm Training 10.0](https://yandex.ru/yaintern/tra
 
 ## Contest 4
 
-| # | Live solution |
-|---|---------------|
-| Task 1 | [Main.java](src/training10/contest4/task1/Main.java) |
-| Task 2 | [Main.java](src/training10/contest4/task2/Main.java) |
+**Contest:** [Yandex Contest](https://new.contest.yandex.ru/contests/97119) · Penalty 2 (50)
+
+| # | Task link | Live solution | Refined solution |
+|---|-----------|---------------|------------------|
+| Task 1 | [Закраска квадратами](https://new.contest.yandex.ru/contests/97119/problems?id=30404%2F2026_08_02%2FprFyQvaxz1) | [Main.java](src/training10/contest4/task1/Main.java) | [MainRefined.java](src/training10/contest4/task1/MainRefined.java) |
+| Task 2 | [Изменение графика](https://new.contest.yandex.ru/contests/97119/problems?id=30404%2F2026_08_02%2FV4RBLfayiX) | [Main.java](src/training10/contest4/task2/Main.java) | [MainRefined.java](src/training10/contest4/task2/MainRefined.java) |
 
 ## Roadmap
 
 | # | Milestone | Due |
 |---|-----------|-------|
-| **1.4** | Contest 4 (Block 3, sorting) | 18 Sep |
 | **1.5** | Warmup; training blocks 1–3 | 19 Sep |
 | **2.0** | Certificates | within a week after publication |
 

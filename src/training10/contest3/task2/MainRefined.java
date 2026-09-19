@@ -12,7 +12,7 @@ import java.util.Queue;
 /**
  * Task:
  * <a href="https://new.contest.yandex.ru/contests/97118/problems?id=30404%2F2026_08_02%2FROVIoIYOyM">
- * Плейлист (Yandex Contest)
+ * Плейлист
  * </a>
  */
 public class MainRefined {

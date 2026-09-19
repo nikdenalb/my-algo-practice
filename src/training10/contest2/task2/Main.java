@@ -13,7 +13,7 @@ import java.util.Map;
 /**
  * Task:
  * <a href="https://new.contest.yandex.ru/contests/97117/problems?id=30404%2F2026_08_02%2FJfz1oqzhEZ">
- * XML-строка (Yandex Contest)
+ * XML-строка
  * </a>
  * <br><br>
  * Solve time 00:40 (00:52 − 00:12). No submit errors.<br>

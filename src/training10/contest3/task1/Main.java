@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * Task:
  * <a href="https://new.contest.yandex.ru/contests/97118/problems?id=30404%2F2026_08_02%2Fx3I9JKzRfW">
- * Японский кроссворд (Yandex Contest)
+ * Японский кроссворд
  * </a>
  * <br><br>
  * Solve time 00:20. No submit errors.<br>

@@ -18,6 +18,19 @@ Off-plan releases are denoted by a letter suffix (e.g. `0.2.0a`, `0.2.0b`).
 
 ---
 
+## [1.5.0] - 2026-09-19
+
+### Added
+- Warmup.
+- Blocks 1–3 practice.
+
+### Changed
+- README contest links use the official contest names.
+- README final rating for the 3 best of 4 contests.
+- README About section rewritten.
+
+---
+
 ## [1.4.0] - 2026-09-18
 
 ### Added

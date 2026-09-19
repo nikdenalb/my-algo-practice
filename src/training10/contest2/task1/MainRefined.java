@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * Task:
  * <a href="https://new.contest.yandex.ru/contests/97117/problems?id=30404%2F2026_08_02%2FCG0w5tl2xP">
- * Запрещенная сумма (Yandex Contest)
+ * Запрещенная сумма
  * </a>
  */
 public class MainRefined {

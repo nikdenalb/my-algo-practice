@@ -9,7 +9,7 @@ import java.io.OutputStreamWriter;
 /**
  * Task:
  * <a href="https://new.contest.yandex.ru/contests/97742/problems?id=30404%2F2026_08_02%2FIjpUFvQlN0">
- * Смена стиля (Yandex Contest)
+ * Смена стиля
  * </a>
  */
 public class MainRefined {

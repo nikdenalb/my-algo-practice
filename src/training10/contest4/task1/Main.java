@@ -10,7 +10,7 @@ import java.util.Arrays;
 /**
  * Task:
  * <a href="https://new.contest.yandex.ru/contests/97119/problems?id=30404%2F2026_08_02%2FprFyQvaxz1">
- * Закраска квадратами (Yandex Contest)
+ * Закраска квадратами
  * </a>
  * <br><br>
  * Solve time 00:11. No submit errors.<br>

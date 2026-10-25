@@ -70,11 +70,13 @@ The timed window was missed. There are no live contest solutions.
 | [3.3. Сортировка слиянием](https://youtu.be/_mO6BqVwr70)<br>[Editorial](https://youtu.be/_2slvKj9oO0) | **E:** [Слияние](https://new.contest.yandex.ru/contests/97114/problems?id=4105%2F2015_01_14%2FBJoIIyloBm)<br>**F:** [Стильная одежда 2](https://new.contest.yandex.ru/contests/97114/problems?id=30404%2F2021_09_07%2FMUszsx4NBx)<br>**G:** [Сортировка слиянием](https://new.contest.yandex.ru/contests/97114/problems?id=4105%2F2015_01_14%2F95CAAPxq5L)<br>**H:** [Сортировка пузырьком: количество обменов](https://new.contest.yandex.ru/contests/97114/problems?id=30404%2F2025_12_16%2FaPgPwbVFnV) | [E](src/training10/block3/taske/Main.java) · [F](src/training10/block3/taskf/Main.java) · [G](src/training10/block3/taskg/Main.java) · [H](src/training10/block3/taskh/Main.java) |
 | [3.4. Пирамидальная сортировка](https://youtu.be/m48sFcBLzR0)<br>[Editorial](https://youtu.be/HJlQtz1OSAY) | **I:** [Количество обменов в heapify](https://new.contest.yandex.ru/contests/97115/problems?id=928%2F2026_08_03%2FCPWxNqjZXd)<br>**J:** [Пирамидальная сортировка](https://new.contest.yandex.ru/contests/97115/problems?id=30404%2F2018_03_15%2FZnIPFQf2Tt) | [I](src/training10/block3/taski/Main.java) · [J](src/training10/block3/taskj/Main.java) |
 
-## Roadmap
+## Materials
 
-| # | Milestone | Due |
-|---|-----------|-------|
-| **2.0** | Certificates | within a week after publication |
+### Certificates
+
+![Yandex Algorithm Training 10.0 practice certificate](certificates/png/30ff9163-9e0d-4cde-9ba5-227a0dfc1d8f.png)
+
+![Yandex Algorithm Training 10.0 contest certificate](certificates/png/100144_Денис%20Никулин.png)
 
 ## About this repository
 
